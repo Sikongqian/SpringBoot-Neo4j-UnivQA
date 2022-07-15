@@ -1,0 +1,825 @@
+﻿[
+  {
+    "n": {
+"identity": 0,
+"labels": [
+        "university"
+      ],
+"properties": {
+"name": "剑桥大学",
+"rank": "1",
+"abbr": "CAM"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 1,
+"labels": [
+        "introduction"
+      ],
+"properties": {
+"abbr": "CAMITR",
+"Itr": "剑桥大学(University of Cambridge)成立于1209年，最早是由一批为躲避殴斗而从牛津大学(University of Oxford)逃离出来的老师建立的，亨利三世国王在1231年授予剑桥教学垄断权。剑桥大学和牛津大学齐名为英国的两所最优秀的大学，由于这两所古老的大学在办学模式等很多方面都很相似，故常被合称为Oxbridge(牛剑)，90位诺贝尔奖得主出自此校(实际来此校工作或执教过的人数可能更多，有指超过100位。因为剑桥大学官方的数据是根据学生或教师是否为学院的成员(Membership/Fellowship)而定。另外，每个大学对计算这个数字的原则都有不同的定义，如：有些大学并不计算那些在得奖以后才到有关院校的人而有些大学则仍将其计算在内;有些亦不计算在校任教不足1年的教职员但其他的却仍视其为与该校有联系的得奖主。因此，不同网站(包括校方官网)所给的资讯都会有差别)。剑桥大学位于伦敦北面50哩以外的剑桥镇。剑桥镇本身是一个拥有大约10万居民的英格兰小镇。这个小镇有一条河流穿过，称为剑河(River Cam，也译作康河)。剑桥大学本身没有一个指定的校园，没有围墙，也没有校牌。绝大多数的学院、研究所、图书馆和实验室都建在剑桥镇的剑河两岸，以及镇内的不同地点。剑桥大学有31个学院，三个女子学院，两个专门的研究生院。剑桥大学最大的特色是学院制，剑桥大学中央不过担当一个像联邦政府的角色，掌管一些宏观的事情，35所风格各异的学院史背景不同，每个学院在经济上自负盈亏，因此各个学院在行政财务，招生教学，都有很大的自主权。各学院内部录取步骤各异，每个学院在某种程度上就像一座微型大学，有自己的校规校纪。在毕业典礼上，每个学生都要由学院院长牵手引到校长面前跪下，接受祝福，象征由学院教导成材。目前剑桥大学共有96位诺贝尔奖获得者(截止到2016年，其中32位获物理学奖, 26 位获医学奖, 22位获化学奖, 11位获经济学奖, 3位获文学奖，2位获和平奖) 。"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 2,
+"labels": [
+        "introduction"
+      ],
+"properties": {
+"abbr": "OXFITR",
+"Itr": "牛津大学(University of Oxford，简称：Oxon.)，建校于1167年。位于英国的牛津大学具有世界声誉，它在英国社会和高等教育系统中具有极其重要的地位，有着世界性的影响。英国和世界很多的青年学子们都以进牛津大学深造作为理想。有全球本科生诺贝尔奖之称的罗德奖学金，每年在全球选取80名最优秀大四本科生去牛津大学攻读硕士或博士。这些罗德学者之后在全世界都有非常重要的影响力。牛津大学是英国研究型大学罗素盟校，欧洲顶尖大学科英布拉集团，欧洲研究型大学联盟以及Europaeum中的核心成员。在九个世纪以来，牛津大学一直是全英国乃至于世界级的顶尖学府。牛津大学和剑桥大学时常被合称为牛剑，它们两所是英格兰最古老、最著名的大学。从2002年至2010年，牛津大学已经连续9年被英国泰晤士报评为全英综合排名第一的大学。除学院外，牛津大学的教学和研究活动(尤其是后者)，主要由学部来组织，学部不是大学内的自治单位，它们都是跨学院的机构，不附属于任何一个学院，不过各学部的教师和学生，首先必须是牛津大学内某一学院的一员。牛津大学现有16个学部：人类学和地理学学部，生物科学学部，临床医学学部，英语和文学学部，法学学部，经典、哲学和古代历史学部，数学学部，中世纪和现代语言学部，现代历史学部，音乐学部，东方学学部，物理科学学部，生理科学学部，心理学学部，社会学学部，神学学部，文科学部下一般不再分系，理科学部下又分成30多个系，有的学部还设一些中心和研究所。此外，有的研究所(如教育研究所，招收有研究生)不隶属于上述各学部，而直属于大学。十二世纪末的时候，牛津镇已经是一个重要的教育中心。从欧洲大陆与其他地方的学者定居在此，在1096年时就有一些教学活动。1167年巴黎大学的排外活动，让许多英国学者离开法国，回到英国牛津。"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 3,
+"labels": [
+        "introduction"
+      ],
+"properties": {
+"abbr": "SADITR",
+"Itr": "圣安德鲁斯大学不仅是世界闻名的教学研究中心，也是英国十分优秀的学府，在种种排名中圣安德鲁斯大学经常名列前茅。圣安德鲁斯大学的国际学生占12%，英国王子威廉在2001年也成为圣安的一员。教学科研质量都很高，学生都为能穿上红色学生袍而感到自豪。小镇上人数不多，大学与城市联为一体，与城市一样的美丽。圣安德鲁斯大学2009年Times最新排名为第五名，她的预科分为本科预科、硕士预科(分两种，给大专学生读的预科和给本科生读的预科)。圣安德鲁斯大学创立于公元1410年，是苏格兰最古老的大学，也是英国的第三所大学，其悠久的历史仅次于牛津及剑桥大学。圣安德鲁斯大学有600多年的历史，为英国最古老的6所大学之一。圣安德鲁斯镇为苏格兰境内风景高颜值的靠海市镇之一，不仅是高尔夫的发源地，同时也是苏格兰历史悠久著名大学的发源地。小镇上人数不多，交通方便，与各大城市都有公路连通。圣安德鲁斯大学在学术研究方面始终保持着优异及领先的地位。主要强项包括：经济学，化学，地理学，数学和统计学，物理学，历史学，细胞和分子生物学，有机生物学，欧洲语言，心理学。特色课程设置：PAC(Postgraduate Access Course)研究生英语班：针对想在英国攻读研究生课程学位及加强其学术写作与口语表达能力的学生，其中并包含参与研究自己专业领域的课程。"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 4,
+"labels": [
+        "introduction"
+      ],
+"properties": {
+"abbr": "ICLITR",
+"Itr": "伦敦帝国理工学院建立于1907年，曾是联邦大学伦敦大学的一个加盟学院。在2007年伦敦帝国理工学院庆祝了该校100周年，并且凭借着学术上卓著的成就从伦敦大学中分立出来。伦敦帝国理工学院与牛津大学、剑桥大学、伦敦政治经济学院、伦敦大学学院并成为G5精英大学，代表着英国大学的高学术水平。帝国理工在世界上享有和麻省理工同等的声誉，研究水平被公认为是英国大学的三甲之列。伦敦帝国理工学院有8个校区分布在伦敦及其周围。主校区位于伦敦的市中心——南肯辛顿，与著名的海德公园、肯辛顿宫(戴安娜王妃生前住处)仅咫尺之遥。周边有很多博物馆体现了它浓厚的文化氛围。中央图书馆也坐落在南肯辛顿校区，有藏书三百五十多万本和期刊一千八百种，学习座位一千余个，学期间24小时开放。伦敦帝国理工学院是英国入学标准高的大学之一，新生入学A level平均分29.7。伦敦帝国理工学院下设工程系，医学系，自然科学系和商学院，开设有242门教学课程。截止2010至2011年度，伦敦帝国理工学院全校有13,964名全日制学生及1000多名教职员工，学教比12:1.1。伦敦帝国理工学院的师资力量极其雄厚，有着优秀的教学能力，在科学领域也有很高的成就，尤其是在机械工程，医药研究和医药加工，以及健康护理等方面。根据2011至2012年度世界大学排名，伦敦帝国理工学院总排名欧洲第3，世界第8。工程和信息科学欧洲第4，世界第10；生命科学欧洲第3，世界第9；物理学科欧洲第4，世界第14。伦敦帝国理工学院在1996年英国高等教育基金委员会研究评估中，数学、电脑科学、化学工程、土木工程、机械工程、矿业工程、生物化学、生物科学、化学、物理、应用数学、统计及运算研究、工程、电机及电子工程、历史等均获得5分。"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 5,
+"labels": [
+        "introduction"
+      ],
+"properties": {
+"abbr": "LOUITR",
+"Itr": "前身为1909年成立的技术学院的拉夫堡大学，于1966年获得皇家特许状，成为英国众多优秀的大学之一。 大学一直致力于走在工程和技术专业的最前沿，同时注重在运动、运动技术、艺术和设计、商务研究、 科学、社会科学和人类学等专业方面的研究，成绩卓著。拉夫堡是一个奇妙的地方，对于学习和工作，拥有无与伦比的体育成就，享誉国际的研究和优秀的教学质量都帮助拉夫堡大学获得了很高的声望。拉夫堡大学单一的校区环境为其提供了极大的吸引力并且与其他学校相比起到了促进和支持作用，一流的设施为学生和工作人员提供了保证。拉夫堡大学是一个优秀的大学所有接触过后的学生都因此而骄傲。在2012年的泰晤士报上被评为优秀大学排名第十一成为一个国家著名的大学，同时也巩固了它的地位。"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 6,
+"labels": [
+        "introduction"
+      ],
+"properties": {
+"abbr": "LSEITR",
+"Itr": "自1895年由英国著名社会理论家、活动家韦伯夫妇创建以来，伦敦政治经济学院以卓越的学术成就而一直享有盛誉和广泛的全球影响力。现已发展成为在世界上最重要的社会科学大学之一，可以与哈佛大学，加州大学伯克利分校和斯坦福大学齐名。伦敦政治经济学院是一所专科大学，研究和教学范围覆盖社会科学的方方面面，从经济、法律和政治到社会学，人类学，会计和金融领域。从1925年到2010年，伦敦政治经济学院共产生过16为诺贝尔经济、和平、文学奖得主。34位过去或当今的世界领袖人物曾经在此学习或执教。伦敦经济学院的触角从位于伦敦市中心的校园延伸到世界各地：学院的学生人群十分国际化，拥有大约9,300名来自145个国家全日制学生。同时，将近3000人的员工队伍也非常国际化，约有45%来自英国以外的国家。在伦敦经济学院的校园中使用的语言超过100种。富有影响力的校友网络囊括10万人，覆盖全球190多个国家，活跃的校友团体超过70个。2008年最近的英国科研水平评估中发现伦敦政治经济学院在英国大学之中拥有的世界一流研究比例高。单项学科领域值得关注的有经济学，法律，社会政策和欧洲研究，都位居全国之冠。"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 7,
+"labels": [
+        "introduction"
+      ],
+"properties": {
+"abbr": "DUITR",
+"Itr": "杜伦大学成立于1832年，并于1837年获颁皇家特许状成为独立大学。杜伦大学是独特性在于她是一所的兼具古老传统和现代价值高校。杜伦大学是继牛津大学和剑桥大学之后，英格兰第三古老的大学，是欧洲1000年以来领先的学习中心。近年来，杜伦大学也一直保持着这一强项，在英语世界影响力排行第七。杜伦大学位于世界遗产达拉谟市的心脏地带，是一个风景优美的好地方。这里的诺曼大教堂是世界上高颜值的哥特式教堂。 杜伦大学的学院是寄宿制学院，不仅为学生参加社会与学术活动提供了场所，校内还有羽毛球、篮球、板球、足球、曲棍球、划船等各种体育运动设施。杜伦大学拥有一流的图书馆设施，大学图书馆被列为英国六大世界主要图书馆之一。2014-2015学年，杜伦大学有学生17,505名，教职员工3,000多名，学生和教职人员来自于世界上150个国家，充分代表了杜伦大学的国际化和多样性，打造了良好的学术氛围。目前杜伦大学中国学生人数为2870名。杜伦大学是英国较好的研究性大学之一，设有艺术与人文，科学，社会科学和健康三个学系，25个学术部门或院校，16个独特的住宿和教育社区。目前，杜伦大学开设的专业有：人类学、考古学、生物科学、企业和企业财务、化学、经典和古代历史、计算机科学、地球科学、经济学、教育、工程、英语研究、地理、历史、国际关系、社会学、体育、神学等。"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 8,
+"labels": [
+        "introduction"
+      ],
+"properties": {
+"abbr": "LUCITR",
+"Itr": "兰卡斯特大学是一所坐落在英国兰卡斯特市郊的学院制大学。兰卡斯特大学享有着非常好的学术声誉，一直在英国大学排名中名列前茅。该校拥有全英国最优秀的环境科学系以及享誉国际的兰卡斯特大学管理学院(LUMS)。学校的物理系在低温物理方面的研究也是国际领先。另外，社会学系方面的教学和研究也非常出色。目前学校拥有约一万二千名全日制学生以及学术人员总共有超过二千名员工。兰卡斯特大学采用学院制体系，由三个中央学院和九个小分院组成，中央学院主要进行科研以及教学，而小分院主要是安排校院内的本科生、研究生、博士后研究人员和一些大学的工作人员等的生活，住宿和福利。兰卡斯特大学在英国卫报2012年优秀大学指南当中排名第七。英国星期日泰晤士报将兰卡斯特大学评为英格兰西北站较好的大学。最近，包括独立报，卫报，泰晤士报都将其评为英格兰西北站较好的大学。兰卡斯特大学管理学院是英国仅有的两个管理学院之一(另一个为伦敦商学院)。根据2011年英国全国学生调查，比起其他院校兰卡斯特大学的学生更满意他们的课程。总体而言，88%的学生在他们在兰卡斯特大学的最后一年中说起他们的课程非常满意。这些结果反映了敬业的员工努力工作，使每个来到这里的学生都会得到较好的教育。"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 9,
+"labels": [
+        "introduction"
+      ],
+"properties": {
+"abbr": "UCLITR",
+"Itr": "伦敦大学学院是英格兰继牛津、剑桥后第三所成立的大学，也是第一所允许学生来自任何种族、宗教和阶层的大学，还是第一所提供女性受高等教育平等权利的英国大学，历史上第一个学生会和大学剧院也诞生于此。伦敦大学学院邻近大英博物馆和大英图书馆，坐落于伦敦市中心，也因此使其成为了最昂贵的大学。UCL在第二次世界大战中遭受到了非常严重的轰炸，重建后的大学规模扩大到了现在的教学区域土地面积16公顷，活动场地36公顷；除宿舍楼外总建筑面积达到了29万5千平方米。伦敦大学学院UCL始建于1826年2月11日，最初的名字就是伦敦大学(London University )。鉴于当时的最著名的也是英格兰仅有两所大学：牛津大学和剑桥大学 都是严格意义上的教会学校，UCL立意成为宗教性质的大学之外的选择。虽然UCL的精神之父杰里米·边沁并未实际参与到学校的建设之中来，但是他所倡导的教育人人平等与国际化成为伦敦大学学院的建校之本。UCL从一开始就是作为一所综合大学所建立的，而不是学院或者研究机构。伦敦大学学院UCL始建于1826年2月11日，最初的名字就是伦敦大学(London University )。鉴于当时的最著名的也是英格兰仅有两所大学：牛津大学和剑桥大学 都是严格意义上的教会学校，UCL立意成为宗教性质的大学之外的选择。虽然UCL的精神之父杰里米·边沁并未实际参与到学校的建设之中来，但是他所倡导的教育人人平等与国际化成为伦敦大学学院的建校之本。UCL从一开始就是作为一所综合大学所建立的，而不是学院或者研究机构。"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 10,
+"labels": [
+        "introduction"
+      ],
+"properties": {
+"abbr": "HWITR",
+"Itr": "英国华威大学立项于于1961年，1965年得以建成，是英国一所著名的校园式大学。校园占地700余英亩，现有学生奖金20000人，其中有20%左右是来自世界125个国家的留学生。在这里，文化得以交流碰撞。学校课程：华威大学下设四个分院：人文学院、理学院、社会科学院和医学院，有30个院系和50个研究中心，提供120个不同专业的本科学位和超过100个硕士与博士研究生学位。大学开设的本科课程有：会计学与金融、汽车工程、生物化学、生物医学、化学生物、化学、土木工程、计算机与信息工程、计算机科学、计算机系统、早期儿童研究、经济学、经济学与工业组织、电子工程、工程商业管理、英国文学、英国文学与创新写作、英语与戏剧研究、环境生物学、欧洲法律、电影与文学、电影研究、法律与商学、法律与社会学等。"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 11,
+"labels": [
+        "university"
+      ],
+"properties": {
+"name": "牛津大学",
+"rank": "2",
+"abbr": "OXF"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 12,
+"labels": [
+        "university"
+      ],
+"properties": {
+"name": "圣安德鲁斯大学",
+"rank": "3",
+"abbr": "SAD"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 13,
+"labels": [
+        "university"
+      ],
+"properties": {
+"name": "伦敦政治经济学院",
+"rank": "4",
+"abbr": "LSE"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 14,
+"labels": [
+        "university"
+      ],
+"properties": {
+"name": "帝国理工学院",
+"rank": "5",
+"abbr": "ICL"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 15,
+"labels": [
+        "university"
+      ],
+"properties": {
+"name": "杜伦大学",
+"rank": "6",
+"abbr": "DU"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 16,
+"labels": [
+        "university"
+      ],
+"properties": {
+"name": "拉夫堡大学",
+"rank": "7",
+"abbr": "LOU"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 17,
+"labels": [
+        "university"
+      ],
+"properties": {
+"name": "伦敦大学学院",
+"rank": "8",
+"abbr": "UCL"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 18,
+"labels": [
+        "university"
+      ],
+"properties": {
+"name": "华威大学",
+"rank": "9",
+"abbr": "HW"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 19,
+"labels": [
+        "university"
+      ],
+"properties": {
+"name": "兰卡斯特大学",
+"rank": "10",
+"abbr": "LUC"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 20,
+"labels": [
+        "location"
+      ],
+"properties": {
+"name": "剑桥镇",
+"Englishname": "Cambridge"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 21,
+"labels": [
+        "location"
+      ],
+"properties": {
+"name": "牛津镇",
+"Englishname": "Oxford"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 22,
+"labels": [
+        "location"
+      ],
+"properties": {
+"Englishname": "St Andrews",
+"name": "圣安德鲁斯镇"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 23,
+"labels": [
+        "location"
+      ],
+"properties": {
+"name": "伦敦市",
+"Englishname": "London"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 24,
+"labels": [
+        "location"
+      ],
+"properties": {
+"Englishname": "Loughborough",
+"name": "拉夫堡镇"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 25,
+"labels": [
+        "location"
+      ],
+"properties": {
+"name": "杜伦市",
+"Englishname": "Durham"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 26,
+"labels": [
+        "location"
+      ],
+"properties": {
+"Englishname": "Lancashire",
+"name": "兰开夏郡"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 27,
+"labels": [
+        "location"
+      ],
+"properties": {
+"Englishname": "Conventry",
+"name": "考文垂市"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 28,
+"labels": [
+        "qualification"
+      ],
+"properties": {
+"name": "剑桥大学研究生申请条件",
+"detail": "
+                
+                    
+                        剑桥大学研究生申请条件
+                        
+                    
+                    
+					  2020/21剑桥大学研究生申请要求：剑桥大学的研究生学习非常紧张，对智力的要求也很高，因此研究生入学要求很高。学术要求因课程而异，您应该检查课程目录中的个别课程条目，以了解课程特定的要求。学术要求：通常希望您在课程开始时持有或完成以下内容：至少获得英国大学的2：1荣誉学位或海外大学的同等学历，完成当前的任何培训或教育课程。申请者必须持有由公认的、具有竞争力的大学颁发的学士学位证书，总成绩平均在85分到90分(按百分制折合)，GPA3.5-3.8分，一些院系的特定课程可能需要申请者具有硕士学位。语言要求：雅思要求总分7.5，单项不低于7.0，部分专业要求更高。有关符合大学较低学术要求的国际资格的目录，可在剑桥大学官网国家部分找到。申请材料：学术推荐信成绩单研究计划盖茨剑桥推荐信(奖学金申请)资金证明英语能力证明GRE考试成绩简历/CV以上内容由百利小编整理，并更新至2019年，后续会及时更新2020最新信息，敬请关注!!!点击索要完整资料。                    
+                
+            "
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 29,
+"labels": [
+        "qualification"
+      ],
+"properties": {
+"name": "牛津大学研究生申请条件",
+"detail": "
+                
+                    
+                        牛津大学研究生申请条件
+                        
+                    
+                    
+					  2019/20牛津大学研究生申请要求学术要求：较低要求为完成学士学位课程并取得一等/二等以上荣誉学位，或国际同等学历。具体要求因专业不同而有所区别，更多详细信息请参考牛津大学官网。在提出申请前，首先需要选定将要就读的专业和院系，然后在申请截止日期前分别将两份申请表和两份所需的其它材料寄到GAO(Graduate Admissions 
+Office)。GAO邮寄地址为：The Graduate Admissions Office, The University Offices, Wellington 
+Square, Oxford OX1 2JD.语言要求：TestStandard level scoresHigher level scoresIELTS Academic?Institution code: 07137.0Minimum 6.5 per component?7.5?Minimum 7.0 per component?TOEFL iBT?Institution code: 0490100Minimum component scores:Listening: 22Reading: 24Speaking: 25Writing: 24110Minimum component scores:Listening: 22Reading: 24Speaking: 25Writing: 24Cambridge Certificate of Proficiency in English (CPE)185Minimum 176 per component191?Minimum 185 per componentCambridge Certificate of Advanced English (CAE)185Minimum 176 per component191?Minimum 185 per component链接：https://www.ox.ac.uk/admissions/graduate/applying-to-oxford/application-guide?wssl=1以上内容由百利小编整理，并更新至2019年，后续会及时更新2020最新信息，敬请关注!!!点击索要完整资料。                    
+                
+            "
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 30,
+"labels": [
+        "qualification"
+      ],
+"properties": {
+"name": "圣安德鲁斯大学研究生申请条件",
+"detail": "
+                
+                    
+                        圣安德鲁斯大学研究生申请条件
+                        
+                    
+                    
+					  2019/20圣安德鲁斯大学研究生申请要求：学术要求：圣安德鲁斯大学研究生候选人需要获得一所名牌大学的学士学位，总成绩为85%或以上。语言要求：圣安德鲁斯大学欢迎来自多个国家的研究生。想要成为圣安德鲁斯大学的研究生，你必须能够提供证据证明你满足我们的较低英语语言要求。我们接受各种英语语言能力的证明的语言测试和资格证书。授课型研究生语言要求对于我们的大多数研究生课程要求雅思总分7.0分或同等英语能力。但是有的科目会对英语成绩要求更高或稍微低一些。比如，化学专业雅思6.5分就满足申请要求，而英语专业要求雅思8分。研究型研究生语言要求研究型学生申请一般通过具体的申请案件评估。一般要求学生通常会有雅思6.5 - 7.0分或同等学历。不同英语测试系统的分数转化：IELTS*5.566.577.58CAE162169176185191200CPE-----200-212PTE515662697480TOEFL758090100110120链接：https://www.st-andrews.ac.uk/subjects/entry/china/以上内容由百利小编整理，并更新至2019年，后续会及时更新2020最新信息，敬请关注!!!点击索要完整资料。                    
+                
+            "
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 31,
+"labels": [
+        "qualification"
+      ],
+"properties": {
+"name": "帝国理工学院研究生申请条件",
+"detail": "
+                
+                    
+                        帝国理工学院研究生申请条件
+                        
+                    
+                    
+					  2019/20年帝国理工学院研究生申请要求：学术要求：帝国理工学院的研究生课程分为研究型和授课型课程，帝国理工实行滚动录取模式，从收到第一份申请开始，整个录取从第一年10月上旬一直到第二年3月底方才结束。硕士项目(含授课型和研究型)：一般专业要求申请者211及重点大学毕业，本科期间均分在80以上，且均分在85及以上的申请者更具有优势。对应英国学位要求为：较低二类B等荣誉学士学位以上，大多数项目要求二类A等荣誉学士学位以上。PhD项目：要求申请者至少硕士毕业，均分80分以上，国内本科毕业生一般不能直接申请。对应英国的要求为：本科二类A等荣誉学士学位+硕士毕业语言要求：帝国理工学院的语言要求分标准(Standard)和较高(Higher)两种水准，具体要求根据专业和课程选择而不同：IELTS：StandardHigher6.5 overall (minimum 6.0 in all elements)7.0 overall (minimum 6.5 in all elements)TOEFL IBT：StandardHigher92 overall (minimum 20 in all elements)100 overall (minimum 22 in all elements)Pearson ? Academic (PTE)：StandardHigher62 overall (minimum 56 in all elements)69 overall (minimum 62 in all elements)链接：https://www.imperial.ac.uk/study/pg/apply/以上内容由百利小编整理，并更新至2019年，后续会及时更新2020最新信息，敬请关注!!!点击索要完整资料。                    
+                
+            "
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 32,
+"labels": [
+        "qualification"
+      ],
+"properties": {
+"name": "拉夫堡大学研究生申请条件",
+"detail": "
+                
+                    
+                        拉夫堡大学研究生申请条件
+                        
+                    
+                    
+					  2019/20拉夫堡大学研究生申请要求：学术要求：申请拉夫堡大学的硕士学位课程，必须持有相关科目的学士学位证书或者硕士学位证书，并且成绩优秀。中国大学类型多样，拉夫堡大学对学生入学成绩的要求也有所不同，主要取决于学生的申请课程以及毕业院校。一般情况下，拉夫堡大学要求申请者必须获得相关课程的四年制学士学位证书，并且平均成绩达到75%(具体由学生申请的硕士学位课程决定)。持有本科文凭的学生，一般不具备申请拉夫堡大学硕士学位课程或者研究型硕士学位课程的学术条件。但是，可以申请学士学位课程。语言要求：拉夫堡大学的英语语言能力入学标准：雅思考试总分达到6.5分，并且听说读写各部分的成绩不能低于6.0分。个别院系可能有更高的语言要求。下面是拉夫堡大学认可的语言考试成绩以及较低要求。英语考试类型????较低入学标准托福网考?总分达到92分，听说读写各部分成绩不低于22分雅思学术类考试总分达到6.5分，听说读写各部分成绩不低于6.0分剑桥熟练英语证书考试(CPE)?C剑桥高级英语证书考试(CAE)?C皮尔森学术英语考试(PTE)?总分达到62分，听说读写各部分成绩不低于55分伦敦学院圣三一英语考试?(ISE) ? III?总成绩达到通过等级，听说读写各部分成绩也达到通过等级注意：没有达到拉夫堡大学上述英语语言标准的学生，可以通过参加学校的学前英语课程，以达到合适的英语标准。但是，需要特别注意的是，只有选择拉夫堡大学为第一志愿的申请者，才有资格参加学校的学前英语课程。以上内容由百利小编整理，并更新至2019年，后续会持续更新2020最新信息，敬请关注!!!点击索要完整资料。                    
+                
+            "
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 33,
+"labels": [
+        "qualification"
+      ],
+"properties": {
+"name": "伦敦政治经济学院研究生申请条件",
+"detail": "伦敦政治经济学院研究生申请条件
+
+2019/20伦敦政治经济学院研究生申请要求：
+
+学术要求：
+
+(1)授课型硕士学位课程(MSc / MA / MPA / LLM)
+
+如果你打算申请伦敦政治经济学院的授课型硕士学位课程，那么你必须持有中国院校颁发的学士学位证书。如果你毕业于中国最顶尖的前35名院校，平均成绩必须达到85%;而如果你毕业于其他院校，平均成绩则需要达到90%，才有资格申请授课型硕士学位课程。
+
+以上是伦敦政治经济学院硕士课程申请的一般要求，一些课程可能在科目成绩方面有更为具体的要求。学校很多定量专业要求学生提供GRE或GMAT成绩。所以在确定自己的学习课程之后，务必要到学校官网上仔细确认课程的具体入学要求和申请过程。
+
+(2)研究型硕士学位课程(MPhil / MRes / PhD)
+
+如果你打算申请伦敦政治经济学院的研究型硕士学位课程，那么你必须持有中国院校颁发的硕士学位证书。如果你是毕业于中国最顶尖的前35名院校，平均成绩必须达到85%(B等);而如果你毕业于其他院校，平均成绩则需要达到90%(A等)，才有资格申请研究型硕士学位课程。
+
+语言要求：
+
+如果你第一语言不是英语，或者你第一学位的授课语言不是英语，伦敦政治经济学院会要求你提交英语语言能力的成绩证明。最普遍的英语资历证明考试是雅思考试。学校不要求你在申请的时候就达到相关的语言要求，但是在正式入学的时候，必须取得符合入学条件的英语语言考试成绩。另外，你的考试成绩一般有2年的有效期，所以学生一定要在成绩的有效期限内进行申请，如果超过期限，成绩是不被认可的。学校也认可其他的一些英语能力考试，但是必须达到雅思成绩的同等标准。
+
+以下列出了伦敦政治经济学院的英语语言能力的一般入学要求和高等入学要求，你必须核对自己所申请的课程需要达到什么等级的英语水平。研究型硕士学位课程以及法学院的语言要求较高。
+
+A. Standard?	Overall	Reading	Listening	Writing	Speaking
+IELTS	7	6.5	6.5	6	6
+LSE Language Centre Presessional programme (5 or 10 week)	70	65	65	60	60
+Pearson Test of English (Academic) (PTEA)	65	58	58	51	51
+Cambridge English Scale*	185	176	176	169	169
+TOEFL	100	23	22	22	20
+Trinity ISE (revised test)	Level ? III	Merit	Merit	Pass	Pass
+B. Higher?	?Overall	?Reading	?Listening	?Writing	?Speaking
+IELTS	7	6.5	6.5	6.5	6.5
+LSE Language Centre Presessional programme (5 or 10 week)	?70	?65	?65	?65	?65
+Pearson Test of English (Academic) (PTEA)	65	58	58	58	58
+Cambridge English Scale*	185	176	176	176	176
+TOEFL	100	23	22	24	22
+Trinity ISE (revised test)	Level ? III	Merit	Merit	Merit	Merit
+C. Research programmes – MPhil/PhD programmes (except Law)	?Overall	?Reading	?Listening	?Writing	?Speaking
+IELTS	7	6.5	6.5	7	6.5
+LSE Language Centre Presessional programme (5 or 10 week)	?70	?65	?65	?70	?65
+Pearson Test of English (Academic) (PTEA)	65	58	58	65	58
+Cambridge English Scale*	185	176	176	185	176
+TOEFL	100	23	22	27	22
+Trinity ISE (revised test)	Level ? III	Merit	Merit	Distinction	Merit
+D. Law programmes – all programmes in the Law Department, ? including MPhil/PhD Law	?Overall	?Reading	?Listening	?Writing	?Speaking
+IELTS	7.5	6.5	7	7	6.5
+LSE Language Centre Presessional programme (5 or 10 week)	75	65	70	70	65
+Pearson Test of English (Academic) (PTEA)	73	58	65	65	58
+Cambridge English Scale*	191	176	185	185	176
+TOEFL	109	23	24	27	22
+Trinity ISE (revised test)	Level ? III	Merit	Distinction	Distinction	Merit
+
+链接：http://www.lse.ac.uk/study-at-lse/international-students/country-pages/china
+
+以上内容由百利小编整理，并更新至2019年，后续会及时更新2020最新信息，敬请关注!!!点击索要完整资料。"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 34,
+"labels": [
+        "qualification"
+      ],
+"properties": {
+"name": "杜伦大学研究生申请条件",
+"detail": "
+                
+                    
+                        杜伦大学研究生申请条件
+                        
+                    
+                    
+					  2019/20杜伦大学研究生申请要求：学术要求：(1)授课型硕士学位课程授课型研究生课程都是硕士学位课程(例如文学硕士和理学硕士)，课程时长通常为一年。申请杜伦大学的授课型硕士学位课程，通常要求申请者具备中国一流大学颁发的学士学位证书，且平均成绩达到80分。(2)研究型硕士学位课程研究型硕士学位课程分为一年制的课程和三年制的硕博连读学位课程。申请杜伦大学的研究型硕士学位课程，通常要求申请者获得硕士学位证书。语言要求：所有的英语语言考试成绩的有效期限为2年，学生的语言考试时间必须在学术课程开始时间(除了延长课程)的2年以内。a. 雅思考试: 总分达到6.5分(听说读写各部分成绩不低于6.0分)b. 托福网考：总分达到92分(听说读写各部分成绩不低于23分)链接：https://www.dur.ac.uk/learningandteaching.handbook/1/3/3/1/以上内容由百利小编整理，并更新至2019年，后续会及时更新2020最新信息，敬请关注!!!点击索要完整资料。                    
+                
+            "
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 35,
+"labels": [
+        "qualification"
+      ],
+"properties": {
+"name": "兰卡斯特大学研究生申请条件",
+"detail": "
+                
+                    
+                        兰卡斯特大学研究生申请条件
+                        
+                    
+                    
+					  2019/20兰卡斯特大学研究生申请要求学术要求：兰卡斯特大学授课型硕士学位课程的学历要求使用英国打分系统。通常要求申请者拥有学士学位，较低分数要求满足一等二级学士学位(2:1)。一些课程要求较低达到二等二级学士学位(2:2)。国际学历资格：四年制学士学位证书，一等二级学士学位同等成绩：80分(按百分制折合计算)，二等二级学士学位(2:2)：75分(按百分制折合计算)。注意：兰卡斯特研究生课程的入学要求，除了对总成绩由要求之外，一些学位课程可能对于学生某一个或者多个科目的具体成绩有要求。语言要求：Recognised ? QualificationStandard ? Postgraduate Entry LevelIELTS Academic (UKVI ? Approved)Yes - 6.5 or ? 7.0** ? ? Minimum scores in each component required. Please check with the Faculty ? Admissions TeamIELTS Academic ? (Other Centres)Yes - 6.5 or ? 7.0** ? ? Minimum scores in each component required. Please check with the Faculty ? Admissions TeamPearson PTE AcademicYes - 62/70 ? ? Minimum scores in each component required. Please check with the Faculty ? Admissions TeamCambridge English: Advanced CAEYes - Grade CCambridge English: Proficiency (CPE)Yes - Grade CGCSE/ IGCSE/ O Level EnglishNoHigh School English language qualificationAcceptable from some countries.ToEFL iBTYes - 93 or 100** ? overallMinimum of 20 or 22** in each skillCaMLA ECPEYes – C2以上内容由百利小编整理，并更新至2019年，后续会持续更新2020最新信息，敬请关注!!!点击索要完整资料。                    
+                
+            "
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 36,
+"labels": [
+        "qualification"
+      ],
+"properties": {
+"name": "伦敦大学学院研究生申请条件",
+"detail": "
+                
+                    
+                        伦敦大学学院研究生申请条件
+                        
+                    
+                    
+					  2019/20伦敦大学学院研究生申请要求学术要求：伦敦大学学院研究生申请每个项目都有不同的学术要求，申请伦敦大学学院的研究生课程通常需要(2:1)或(2:2)本科学位或国际同等学历。请注意申请一些博士项目(例如：硕士/博士学位)还需要硕士学位。具体项目的申请要求可以在研究生招生说明书上找到。Upper second-class (2:1)二等一学位：对应本科学位，均分85以上。部分专业会要求更高的分数。Lower second-class (2:2)二等二学位：对应本科学位，均分80以上。部分专业会要求更高的分数。语言要求：伦敦大学学院语言要求分标准(Standard Level)、优秀(Good Level)和高级(Advanced Level)三个水准。不同的专业会有相应不同的要求，甚至每年都会有相应的更改。需要注意的是，同一专业的本科入学语言要求并不会比研究生入学语言要求低。分类IELTS要求托福要求总分单项总分单项Standard≥6.5均不低于6.0≥92阅读和写作不低于24，口语和听力不低于20Good≥7.0均不低于6.5≥100阅读和写作不低于24，口语和听力不低于20Advanced≥7.5均不低于6.5≥109阅读和写作不低于24，口语和听力不低于20链接：https://www.ucl.ac.uk/prospective-students/graduate/learning-and-living-ucl/international-students/english-language-requirements以上内容由百利小编整理，并更新至2019年，后续会持续更新2020最新信息，敬请关注!!!点击索要完整资料。                    
+                
+            "
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 37,
+"labels": [
+        "qualification"
+      ],
+"properties": {
+"name": "华威大学研究生申请条件",
+"detail": "
+                
+                    
+                        华威大学研究生申请条件
+                        
+                    
+                    
+					  2019/20华威大学研究生申请学术要求较低二类B等荣誉学位以上，对应国内学校均分为77%，或绩点2.9;部分项目要求二类A等荣誉学士学位以上，对应国内学校均分为82%，或绩点3.3。2019/20华威大学研究生申请语言要求华威大学要求你的英语语言能力能满足大学课程的要求。所有申请者都必须证明他们能够用英语口语和书面语去理解和表达。具体要求根据专业不同而有所区别：专业分类雅思托福PTEBand A总分6.5分，听说读写各单项不低于6.0分;总分92分，听力和写作不低于21分，阅读不低于22分，口语不低于23分;总分62分，听说读写各单项不低于51分。Band B总分7.0分，两个单项在6.0或6.5，其余单项不低于7.0+分;总分100分，听力和写作不低于21分，阅读不低于22分，口语不低于23分；总分70分，听说读写各单项不低于51分。Band C总分7.5分，两个单项在6.5或7.0，其余单项不低于7.5+分;总分108分，听说读写各单项不低于23分;总分75分，听说读写各单项不低于59分。Band D总分8.0分，两个单项在7.0或7.5，其余单项不低于8.0+分;总分113分，听说读写各单项不低于25分;总分79分，听说读写各单项不低于70分。链接：https://warwick.ac.uk/study/international/countryinformation/eastasia/china以上内容由百利小编整理，并更新至2019年，后续会持续更新2020最新信息，敬请关注!!!点击索要完整资料。                    
+                
+            "
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 38,
+"labels": [
+        "nation"
+      ],
+"properties": {
+"name": "U.K"
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 39,
+"labels": [
+        "fee"
+      ],
+"properties": {
+"name": "剑桥大学费用情况",
+"detail": "
+                
+                    
+                        剑桥大学费用情况
+                       
+                    
+                    
+						2020/21剑桥大学留学费用：请注意：所有的学生必须能够确保整个专业学习期间在剑桥大学(除了在国外学习的一年时间)。1、剑桥大学一年费用国际学生的学费标准取决于你所选择的学习课程。如果你是一名欧盟国家的学生，并且你满足居住要求，那么你可以与英国学生支付相同的学费。如果你不确定你是英国/欧盟或海外学生，请在剑桥大学官网上查询了解。2019年海外学生的学费已获得批准。请注意：所列数字为每年的费用，并在课程期间固定。你应该预计学费在随后年份会增长。如果海外学生有一年出国交换留学，那么在这一年仅需向剑桥大学支付全部学费的50%。对于攻读兽医学的海外学生，第三年的学费将是该年所学课程的费用，关于课程详情见官网页面。Group 1Anglo-Saxon, Norse, and Celtic; Archaeology; Asian and Middle ? Eastern Studies; Classics; Economics; Education; English; History; History ? and Modern Languages; History and Politics; History of Art; Human, Social, ? and Political Sciences; Land Economy; Law; Linguistics; Modern and Medieval ? Languages; Philosophy; Theology, Religion, and Philosophy of Religion￡21,168Group 2Mathematics￡23,607Group 3Architecture; Geography; Music￡27,696Group 4Chemical Engineering; Computer Science; Engineering; Management ? Studies; Manufacturing Engineering; Natural Sciences; Psychological and ? Behavioural Sciences￡32,214Group 5Medical and Veterinary Science (including for this purpose the ? Second M.B. and Second Vet.M.B. Examinations)￡55,272所有海外费用状态的学生，以及不符合学费支持的英国/欧盟学生(例如因为他们参加的是第二个本科学位专业学习)，除了需要支付大学学费之外，通常还需要支付额外的学院费用。2、学院费用学院费用包括了学院为你提供的一系列教育、本国和乡村服务和支持的费用支出。各个学院的学院费用标准各不相同，在很多情况下，学院费是根据你的课程时间而定的。3、生活费作为一名国际学生，你在剑桥大学留学的生活成本可能会比英国学生要高一些(尤其是如果你在放假期间也待在剑桥或者是英国的话)。2019-20学年，剑桥大学每一年的较低生活成本资金(不包括学费和学院费用)大约需要￡10,950，实际消费额度由你的生活方式决定(您应考虑到未来几年会有增长)。链接：https://www.undergraduate.study.cam.ac.uk/international-students/fees                    
+                
+            "
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 40,
+"labels": [
+        "fee"
+      ],
+"properties": {
+"name": "牛津大学费用情况",
+"detail": "
+                
+                    
+            
+                           
+						2019/20牛津大学学费您将被收取的学费以及有效的经济支持取决于您的收费状态，这些收费状态包括本地(英国)，欧盟(欧盟其他地区)，海外(欧盟以外)或群岛(海峡群岛或马恩岛)。欧盟以外的学生如果您来自欧盟以外的国家，您将被归类为“海外”或“岛屿”学生，您要知道，您将没有资格获得牛津或英国政府的任何学费资助。如果你是一名海外学生，你将被收取相当高的学费，具体将根据你的学习项目而有所不同(详见课程清单)。留学生需支付额外的学院费用。医学专业如果您是六年制医学课程的(英国)或欧盟学生，您将在第五年和第六年获得不同的学费安排。英国学生在这几年的学费将由国民保健体系支付。来自欧盟的五年级和六年级学生的学费支持安排情况尚不清楚。有关详细信息，请访问英国/欧盟医学生资助页面。临床医学专业的岛屿或海外学生需要注意，他们的费用将会大幅提高。Fee statusAnnual course fees payable by studentOverseasBetween ￡24,750 and ￡34,678*Islands￡9,2502019/20牛津大学生活费你的生活费用会因你的生活方式而有很大的不同。据估计，2019-20年期间，这一数字为每月￡1,058--￡1,643。本科课程通常由三个学期组成，每个学期八周，但作为参考，您最好按照9个月的预算准备资金，以确保您在假期期间也有足够的资金来维持基本生活。Per monthTotal for 9 monthsLower rangeUpper rangeLower rangeUpper rangeFood￡265￡371￡2,387￡3,342Accommodation (including utilities)￡566￡739￡5,093￡6,655Personal items￡122￡271￡1,098￡2,435Social activities￡42￡126￡380￡1,138Study costs￡40￡88￡359￡788Other￡23￡48￡208￡432Total￡1,058￡1,643￡9,525￡14,790链接：http://www.ox.ac.uk/admissions/undergraduate/fees-and-funding/course-fees                    
+                
+            "
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 41,
+"labels": [
+        "fee"
+      ],
+"properties": {
+"name": "圣安德鲁斯大学费用情况",
+"detail": "
+                
+                    
+                        
+                       
+                    
+                    
+						2019/20圣安德鲁斯大学本科费用如果你是本科生，你的学费将取决于你的学习科目和你的国籍。此外，你还需要支付你自己的食宿费用，包括食物、旅行和洗衣费。你还应该预留一些书、设备、实地考察费和其他费用。在开始学习的时候，你可能会被要求支付总理事会和毕业费或结业费。在各个层次的学习中都有很多的奖学金和支持计划，学校可以在必要的时候提供财政援助和建议。Tuition fees for undergraduatesApprovedApprovedApprovedNotes2017-20182018-20192019-2020Home (Scotland/EU)?- Arts, Divinity, ? Science, Medicine￡1,820￡1,820*?* yet to be set by the Scottish GovernmentRUK (England, Wales, N.Ireland) - Arts, ? Divinity, Science, Medicine2017 onwards￡9,250￡9,250￡9,250RUK (England, Wales, N.Ireland) - Arts, ? Divinity, Science, Medicinepre-2017 entrants￡9,000￡9,250￡9,250Island Fees2017 onwards￡9,250￡9,250￡9,250Island Feespre-2017 entrants￡9,000￡9,250￡9,250Overseas - Arts, Divinity, Science2019 entrants--￡22,3502019 ? entrants - fixed tuition fees for the duration of studyOverseas - Arts, Divinity, Science2018 entrants-￡21,290￡21,2902018 ? entrants - fixed tuition fees for the duration of studyOverseas - Arts, Divinity, Science2017 entrants￡20,570￡20,570￡20,5702017 ? entrants - fixed tuition fees for the duration of studyOverseas - Arts, Divinity, Sciencepre-2017 entrants￡18,780￡19,720￡20,700pre-2017 entrants - fees will increase by no more than 5% ? each yearOverseas - Medicine2017 onwards￡28,200￡30,080￡31,580entrants ? from 2017 onwards - tuition fees may increase each year and further ? information can be found on our?Study at St Andrewswebpage?under ? the 'Tuition fees' headingOverseas - Medicinepre-2017 entrants￡26,460￡27,780￡29,170pre-2017 entrants - fees will increase by no more than 5% ? each year其他花费：Undergraduate exceptionsApprovedApprovedApprovedNotes2017-20182018-20192019-2020Philosophy Outreach ModulesDistance Learning￡303￡303*Equates to 20 credits of Home/EU undergraduatePhilosophy Outreach ModulesDistance Learning￡3,428￡3,548￡3,725Equates to 20 credits of?Overseas undergraduateCertificate of Sustainable AquacultureDistance Learning￡3,995￡3,995￡3,995/链接：https://www.st-andrews.ac.uk/students/money/fees/feestable
+                
+            "
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 42,
+"labels": [
+        "fee"
+      ],
+"properties": {
+"name": " 帝国理工学院费用情况",
+"detail": "
+                
+                    
+                       
+                       
+                    
+                    
+						2019/20年帝国理工学院本科学费：以下表格列出了2019/20年新生的所有学费信息。返校生的费用信息将在相关的通货膨胀指标出来之后公布。请注意，帝国理工学院的费用按入学学院的年份收取，不按学习的年份收取。这里列出的费用针对的2019/20学年度入学的新生。你可以先选择你所属的院系，了解院系和课程费用信息。UK/EU学生：￡9,250国际学生费用（Islands/Overseas）工程学院（下属10个院系）计算机系、航空航天系、生物工程系、地球科学和工程学系、电子工程系、机械工程系、化学工程系、土木与环境工程系、戴森设计工程系、材料科学和工程系￡ 30,250.00学业含一年海外学习或一年企业实习/研究的学生医学院非临床医学￡ 41,000.00临床医学￡ 41,000.00医学生物科学￡ 30,000.00自然科学学院化学系￡ 31,000.00生命科学系￡ 31,000.00数学系￡ 28,000.00请注意：数学和计算机科学课程由计算学系实施。它们的费用详情请参看工程学院计算学系。物理系?￡ 31,000.00总结：由以上可以看出，帝国理工学院国际学生本科学费基本在￡28,000.00到￡41,000.00之间。链接：http://www.imperial.ac.uk/study/ug/fees-and-funding/tuition-fees/生活费超过90%的帝国理工学院的本科生选择第一年住在我们的宿舍里。我们有能容纳2500名学生的房间，包括单人间和双人间。我们有适应各种预算和不同地点的住宿条件。每周每人的住宿费用在￡100*到￡274*之间。链接：http://www.imperial.ac.uk/study/campus-life/accommodation/prospective/ug/fees/研究生学费因学院和项目而异，建议查看官网最新信息。http://www.imperial.ac.uk/study/pg/fees-and-funding/tuition-fees/2019-20/            
+                
+            "
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 43,
+"labels": [
+        "fee"
+      ],
+"properties": {
+"name": "      拉夫堡大学费用情况",
+"detail": "
+                
+                    
+                  
+                       
+                    
+                    
+						2019/20拉夫堡大学本科费用：学费包括您的教学，评估和大学设施的运营成本，如图书馆，IT设备以及学习和个人支持设施。大学费用可以提前支付，并有多种支付方式，包括在线支付和分期付款。每年的学费在学年开始时支付，大多数学生选择拿学生贷款来支付这笔费用，并延迟还款，直到他们毕业并获得工资。你应该预计在未来几年的研究中会因为通货膨胀而增加费用支出。Tuition fees for 2019 entryUK/EU tuition ? feesInternational ? tuition feesBand A courses￡9,250￡17,500Band B courses￡9,250￡22,350Band C courses￡9,250￡18,400Erasmus+/study ? year abroad20% of the full-time ? fee20% of the full-time ? feeSandwich ? placement year20% of the full-time ? fee20% of the full-time ? feeFoundation ? year*￡9,250￡17,500生活费要想知道你选择的课程是费用分类中的哪一种，请在课程页面内查看费用详细信息。如果你有任何问题，或者对某事不确定，请不要犹豫与我们联系。住宿费如果您选择拉夫堡大学，并在7月底前申请住宿，我们将保证为你提供一间大学宿舍。Type ? of ? accommodationIndicative costHalls of ? Residence (Catered)￡5,800 ? – ￡7,000Halls of ? Residence (Self-Catering)￡3,500 ? – ￡6,200Accommodation ? for performance athletes￡6,845.50链接：http://www.lboro.ac.uk/study/undergraduate/fees-funding/fees/
+            "
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 44,
+"labels": [
+        "fee"
+      ],
+"properties": {
+"name": "伦敦政治经济学院费用情况",
+"detail": "
+                
+                    
+                        
+                       
+                    
+                    
+						2019/20伦敦政治经济学院本科学费每个本科生每年都会被收取一定的费用。费用包括应付学校的注册费和考试费，讲座费，课程费和个人监督费，其他学院安排下的讲座费，以及根据现行安排参加学生会的费用。它不包括生活费用、旅行或实地考察费用。每年春季确定下一学年的费用，并将在费用表中公布。2019本科学费：UKand EU：￡9,250海岛学生：￡9,250伦敦政治经济学院( LSE )居住在海峡群岛( Channel Islands 
+)的新生第一年的学费为9，250英镑，但随后几年可能会随着通货膨胀而上涨。国际学生：￡19,9202019年，伦敦政治经济学院( LSE 
+)海外学生第一年的学费为19,920英镑。海外学生需要在每年年初分期或全额支付这笔费用。海外费用通常每年上涨2.5%至4%。生活费生活费我们估计您每月应支付约1100 - 
+1300英镑的生活费，包括住宿费、差旅费、食宿费、洗衣费、学习费和其他个人费用。这将取决于你的生活方式和需求，所以做一份自己的预算很重要。请注意，如果你要申请签证，你必须提供足够的资金证明，这些金额可能会有所不同。链接：http://www.lse.ac.uk/study-at-lse/Undergraduate/fees-and-funding
+            "
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 45,
+"labels": [
+        "fee"
+      ],
+"properties": {
+"name": "     杜伦大学费用情况",
+"detail": "
+                
+                    
+                   
+                       
+                    
+                    
+						2019/20杜伦大学本科学费：作为一名潜在的学生，充分理解大学将花多少钱，是否有资格获得经济支持对你来说很重要。这将使您能够在开始学习之前制定合理的经济计划。UK/EU学生学费：￡9,250*国际学生学费杜伦是英国最便宜的留学城市之一。英国北部的生活和住宿费用比南部和伦敦低。杜伦的很多企业都为学生提供折扣，你可以在各种各样的商品和服务上省钱，包括交通、时尚和娱乐。你应该在学习期间计划好你的财务状况，并确保你有足够的资金在去英国旅行之前支付所有费用。全日制国际学生的学费在课程数据库中显示。学生需核对课程具体信息，以支付最新的费用。本科学费因专业和项目而异，学费范围：￡19,250.00 per year--￡24,300.00 per year生活费生活费英格兰北部的生活成本通常要比南部低很多，但具体花费取决于你的生活方式。大学住宿我们的15个本科学院提供全面配餐、部分配餐和自助配餐选项。除了住宿和食品(提供膳食的学院)，大学的住宿费用包括公用事业(包括清洁服务)和各种设施。旅行杜伦市和皇后校区都很紧凑，可以步行或骑车。杜伦市周围的某些公共汽车服务对杜伦学生也是免费的。学生还可以用16-25铁路卡购买折扣火车票，价格为30英镑。杜伦市和纽卡斯尔之间的火车票价约6英镑。其他目的地也有折扣，包括伦敦、曼彻斯特、利物浦和爱丁堡。图书成本高达约250英镑。请记住，没有必要出去购买阅读清单上的每本书。图书馆里有所有课程书籍的副本。如果你真的想拥有自己的书籍副本，可以在亚马逊/eBay上或以前的学生那里寻找更便宜的二手版本。食物根据你被分配到的学院，你可以选择全面配餐(每天由学校提供膳食)或自助配餐(你必须准备好自己的所有膳食)。一般情况下，自助膳食的学生每周应准备大约30英镑的食物费。私人住房费用杜伦：预计每周支付60 - 100英镑(不含账单)，或每周支付100 - 
+110英镑(含账单)。价格较低的住房往往离市中心较远。如果你选择分开付账单，除了房价之外，每周至少要多付15英镑。保持联系移动电话合同通常每月花费10到50美元，具体取决于您选择的电话类型以及需要多少分钟和信息花费。如果你有一部智能手机，只要你有wifi连接，你就可以使用APP、Skype和Viber与朋友和家人保持免费联系。娱乐以下是一些常见休闲活动的典型成本：电影票 - 约6英镑杜伦学生剧院 - 学生门票约￡6当地景点：杜伦城堡，杜伦大学学生免费; 大教堂，免费; 植物园，杜伦大学学生免费; 东方博物馆，杜伦大学学生免费。用餐 - 学生可以在当地餐馆和酒吧享受5-10英镑的折扣优惠。一顿标准餐，开胃菜要付5 - 10英镑，主菜要付10 - 
+15英镑，甜点要付5英镑左右。注：研究生学费因学院和项目而异，建议去官网查看最新信息。链接：https://www.dur.ac.uk/study/ug/finance/international/
+            "
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 46,
+"labels": [
+        "fee"
+      ],
+"properties": {
+"name": "兰卡斯特大学费用情况",
+"detail": "
+     
+                    
+						2018/19兰卡斯特大学本科学费海外学生在本科阶段的课程所缴的学费主要分为三个档位，并依学科范围而定。国际学生(full time)Band 1： ￡15,680Band 2：￡17,500Band 3：￡18,890MBChB (Medical)： ￡30,330*第一档学院/学科领域艺术：犯罪; 英国文学与创作写作; 英语; 电影研究; 媒体与文化研究; 历史; 语言与文化; 法; 语言学; 哲学; 
+政治与国际关系; 宗教研究; 社会工作; 社会学; 戏剧研究。第二档学院/学科领域会计与金融：商业研究; 经济学;创业; 管理; 管理和组织; 管理科学;市场营销; 运营管理，组织，工作和技术。第三档学院/学科领域生物化学：生物科学; 化学; 通信系统; 计算机科学; 地球科学; 生态; 工程; 环境化学; 环境科学; 地理; 数学与统计; 
+自然科学; 物理; 心理学。任何学生如在第一学期第四周开始前转专业，将须缴付新课程的全部学费。本科生活费：住宿费兰开斯特大学提供广泛的本科生住宿，以适应不同的偏好和预算。在一年一度的全国学生住房调查中，我们自2010年以来六次被评为英国较好的大学殿堂。住宿费是定期预付的，我们会在您到达之前通过电子邮件向您发送发票。如果您在任何付款日期遇到困难，您必须在到期日之前亲自与住宿经理讨论此事。费用包括供暖、照明、供电以及学期期间24小时的安保服务。ResNet也包括在内，使您可以访问大学网络和高速互联网(有线和无线)。保险费覆盖您在房间里的财产，高可达5，000英镑。自行车费较多250英镑也包含在内。您可能希望增加某些项目的承保范围。更多详情可在居民手册和cover4学生网站上找到。所有共用区域(如厨房、共用淋浴室和走廊)都包括基本清洁服务，但您有责任保持自己房间的清洁。工作室公寓、家庭公寓和联排别墅没有清洁服务。更多详情请参阅居民手册。此处报价适用于2018 / 19学年。学生具体需要支付的住宿费和所选课程及宿舍类型有关。链接：https://www.lancaster.ac.uk/student-based-services/money/fees/undergraduates/overseas-students/                  
+                
+            "
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 47,
+"labels": [
+        "fee"
+      ],
+"properties": {
+"name": "
+                        伦敦大学学院费用情况",
+"detail": "
+                
+                    
+                       
+                    
+                    
+						2019/20伦敦大学学院本科学费国际学生对于国际(海外)本科生，UCL没有设置固定费用，具体学费根据学院和所选课程而有所不同。2019年各学科学费如下：￡18,430 for most Education programmes;￡19,380 for most Linguistics programmes;￡19,970 for most Arts, Humanities and Social Science-based programmes;￡20,640 for Laws￡21,680 for Arts and Sciences (BASc) programmes;￡21,870 for most Economics programmes;￡23,470 for most Mathematics programmes;￡24,090 for most Geography programmes;￡24,760 for most Life Sciences programmes (￡21,680 for Pharmacy MPharm);￡25,260 for most Statistics programmes;￡25,770 for most Architecture programmes;￡26,740 for most Science programmes (￡29,220 for Computer Science);￡26,740 for most Archaeology, Engineering and Astrophysics programmes;￡27,220 for Fine Art;￡34,660 for Medicine (￡23,300 for the integrated BSc year). 
+请注意，固定费用不适用于医学项目。单独专业的费用可以在课程列表中找到。本科生活费生活费包括食物、旅行、住宿以及与你的学位相关的其他费用。在学习期间为你的生活和日常开支做预算会根据你的个人需要而有所不同。每周约387英镑的被认为是一个合理的平均水平，大约39周，包括30周的UCL学术年，以及圣诞节和复活节假期。这样计算下来，一个学年的平均值约为15103英镑。但事实上，许多学生的生活成本远远低于平均水平。具体开支如下：Per year (39 weeks)Per week (39/52 weeks)Rent￡8,190￡210 (average)Food￡1,833￡47Household goods￡351￡9Insurance￡77￡1.97Personal items*￡1,911￡49Leisure items*￡1,248￡32Travel**￡936￡24.50Books and equipment (includes laptop)￡507￡13链接：https://www.ucl.ac.uk/prospective-students/undergraduate/fees-funding/tuition-fees/overseas                    
+                
+            "
+      }
+    }
+  },
+  {
+    "n": {
+"identity": 48,
+"labels": [
+        "fee"
+      ],
+"properties": {
+"name": " 华威大学费用情况
+                       ",
+"detail": "
+                
+                    
+                       
+                    
+                    
+						2019/20学年华威大学本科费用：·学费必须由所有注册的学生支付。学费是与学习有关的费用，不包括住宿费。有关与课程相关的其他成本(例如书籍和设备)的信息，请查看课程信息页面。学费在每个学年开始时缴纳。直接向大学付费的学生可以选择分期付款。在学生资助网站上可以找到包含插班一年或一年海外课程的学费。UK/EU：￡9250国际学生Band1授课课程，包含大多数人文或社会科学课程：￡19240Band1包括图书馆课程，戏剧或表演研究、经济学以及华威商学院的课程：￡24540医学第一年：￡22460第2-4年：￡39150链接：https://warwick.ac.uk/study/undergraduate/studentfunding/·住宿费上大学可能是你第一次离家。无论您的预算、生活方式或实际需求如何，我们都将努力帮助您尽快安顿下来，并帮助您找到适合您的住宿环境。华威住宿(官方学生物业管理和出租代理)为所有的全日制学生提供支持。你不会被收取任何服务费。我们经验丰富的团队旨在解决住宿麻烦，管理着校园内外8000多个房间。我们保证为所有新的全日制一年级本科生(不包括MB 
+ChB，因为这是一门研究生入学课程)提供校园住宿，前提是您已接受华威大学offer，并且在接受我们的offer后，在截止日期前在线申请住宿。我们所有的校园住宿都是不包餐的。有些房间有成套浴室设施，另一些房间有共用浴室。您可以在您的宿舍享受无线网络，因此可以轻松地访问互联网。每周费用从80英镑到167英镑不等。*长短不一：短的意思是复活节假期你不用付住宿费，长的意思是假期你可以灵活地呆在校园里或者把你的物品留在房间里。                 
+                
+            "
+      }
+    }
+  }
+]

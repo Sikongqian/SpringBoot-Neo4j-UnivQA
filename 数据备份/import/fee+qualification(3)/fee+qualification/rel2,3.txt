@@ -1,0 +1,10 @@
+LOAD CSV WITH HEADERS  FROM "file:///前10大学费用情况.csv" AS line1
+LOAD CSV WITH HEADERS  FROM "file:///前10申请条件.csv" AS line2
+Merge (univTution:fee{abbr:line1.abbr,fee:line1.fee})
+Merge(qulific:Qualification{abbr:line2.abbr,Qualific:line2.Qualific})
+LOAD CSV WITH HEADERS  FROM "file:///univrel2(fee).csv" AS line3 
+Match (start:fee{abbr:line3.end}),(end:university{abbr:line3.start})
+Merge (start)-[r:fee]->(end)
+LOAD CSV WITH HEADERS  FROM "file:///univrel3(QUALIFICATION).csv" AS line3 
+Match (start:Qualification{abbr:line3.end}),(end:university{abbr:line3.start})
+Merge (start)-[r:qulific]->(end)

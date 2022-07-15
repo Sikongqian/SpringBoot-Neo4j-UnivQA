@@ -1,0 +1,434 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:th="http://www.thymeleaf.org"
+	xmlns:sec="http://www.thymeleaf.org/thymeleaf-extras-springsecurity3" class="ng-scope">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta charset="UTF-8">
+<title>University List</title>
+<style>
+.box{
+				height: 2.625rem;
+				width: 37.625rem;
+				margin: 0 auto;
+				text-align: center;
+				line-height: 40px;
+			}
+			.box li{
+				display: inline-block;
+				height: 1.625rem;
+				text-align: center;
+			}
+			.box li a{
+				display: inline-block;
+				text-decoration: none;
+				font: 0.75rem "arial black";
+				color: #000000;
+				height: 1.625rem;
+				background-color: gold;
+				padding: 0 5px;
+				line-height: 1.625rem;
+			}
+			.box:hover {
+			transform: scale(1.5); 
+			transition: all .3s; 
+			}
+img {
+    border: 0;
+}
+.cf:before,.cf:after {
+    display: table;
+    content: "";
+}
+.cf:after {
+    clear: both;
+}
+.cf {
+    *zoom: 1;
+}
+canvas{
+position: fixed;
+    top: 0px;
+}
+</style>
+</head>
+<body>
+<section>
+<div class="sosomian">
+            <div class="sosoa" style="display:block">
+            <div class="shoollist">
+                        
+                            <img src="image/university-of-oxford_small.jpg                             " title="牛津大学" alt="牛津大学"/>
+                      
+                        <div class="listmain">
+                            <h5>
+                                
+                                    牛津大学&nbsp;&nbsp;&nbsp;
+                               <a href="UnivIntro/Oxford.html">     
+                                        University of Oxford                                    
+                                </a>
+                            </h5>
+                        </div>
+
+                                                <p class="main">
+                            <span>2022年世界大学QS排名：2</span><span>师生比例：1:11</span><span>录取率：17%</span><span>年平均学费：£16,230-£23,885</span><span>年平均生活费：£9,127-£13,991</span>                        </p>
+
+
+                       
+                                                <br clear="all" />
+                    </div>
+                                                    <div class="shoollist">
+                        
+                            <img src="image/university-of-cambridge_small.jpg" title="剑桥大学" alt="剑桥大学"/>
+                      
+                        <div class="listmain">
+                            <h5>
+                               
+                                    剑桥大学&nbsp;&nbsp;&nbsp;
+                                   <a href="UnivIntro/Cambridge.html">
+                                        University of Cambridge                              
+                                </a>
+                            </h5>
+                        </div>
+
+                                                <p class="main">
+                            <span>2022年世界大学QS排名：3</span><span>师生比例：1:11</span><span>录取率：21%</span><span>年平均学费：£20,157-£70,131</span><span>年平均生活费：£10,310</span>                        </p>
+
+
+             
+<br>
+                                                <br clear="all" />
+                    </div>
+                                    
+                                    <div class="shoollist">
+                        
+                            <img src="image/imperial-college-london_small.jpg" title="帝国理工大学" alt="帝国理工大学"/>
+                     
+                        <div class="listmain">
+                            <h5>
+                                
+                                    帝国理工大学&nbsp;&nbsp;&nbsp;
+                                    <a href="UnivIntro/IC.html">
+                                        Imperial College London                          
+                                </a>
+                            </h5>
+                        </div>
+
+                                                <p class="main">
+                            <span>2022年世界大学QS排名：7</span><span>师生比例：1:11</span><span>录取率：16%</span><span>年平均学费：£29,000-£40,000</span><span>年平均生活费：£11,112-£11,268</span>                        </p>
+
+
+                        
+                                                <br clear="all" />
+                    </div>
+                                    <div class="shoollist">
+                        
+                            <img src="image/ucl_small.jpg                            " title="伦敦大学学院" alt="伦敦大学学院"/>
+                       
+                        <div class="listmain">
+                            <h5>
+                                
+                                    伦敦大学学院&nbsp;&nbsp;&nbsp;
+                                    <a href="UnivIntro/UCI.html">
+                                        University college London                                  
+                                </a>
+                            </h5>
+                        </div>
+
+                                                <p class="main">
+                            <span>2022年世界大学QS排名：8</span><span>师生比例：1:10</span><span>录取率：10%</span><span>年平均学费：£17,890-£33,650 </span><span>平均生活费：£1,100-£1,300/月</span>                        </p>
+
+
+                        
+                                                <br clear="all" />
+                    </div>
+                                    <div class="shoollist">
+                      
+                            <img src="image/the-university-of-edinburgh_small.jpg                            " title="爱丁堡大学" alt="爱丁堡大学"/>
+                   
+                        <div class="listmain">
+                            <h5>
+
+                                    爱丁堡大学&nbsp;&nbsp;&nbsp;
+                                    <a href="UnivIntro/UE.html">
+                                        The university of Edinburgh                                  
+                                </a>
+                            </h5>
+                        </div>
+
+                                                <p class="main">
+                            <span>2022年世界大学QS排名：16</span><span>师生比例：1:13</span><span>录取率：11%</span><span>年平均学费：£30,200 </span><span>年平均生活费：£11,112-£11,268</span>                        </p>
+
+
+                       
+                                                <br clear="all" />
+                    </div>
+                                    <div class="shoollist">
+                        
+                            <img src="image/the-university-of-manchester_small.jpg                            " title="曼彻斯特大学" alt="曼彻斯特大学"/>
+                      
+                        <div class="listmain">
+                            <h5>
+                               
+                                    曼彻斯特大学&nbsp;&nbsp;&nbsp;
+                                    <a href="UnivIntro/UM.html">
+                                        The university of Manchester                                  
+                                </a>
+                            </h5>
+                        </div>
+
+                                                <p class="main">
+                            <span>2022年世界大学QS排名：27</span><span>师生比例：1:13</span><span>录取率：14%</span><span>年平均学费：£17,000-£38,000</span><span>年平均生活费：￡9600</span>                        </p>
+
+
+                       
+                                                <br clear="all" />
+                    </div>
+                                    <div class="shoollist">
+                       
+                            <img src="image/kings-college-london_small.jpg                             " title="伦敦国王学院" alt="伦敦国王学院"/>
+                       
+                        <div class="listmain">
+                            <h5>
+                              
+                                    伦敦国王学院&nbsp;&nbsp;&nbsp;
+                                    <a href="UnivIntro/SL.html">
+                                        King's college London,                                  
+                                </a>
+                            </h5>
+                        </div>
+
+                                                <p class="main">
+                            <span>2022年QS世界大学排名：35</span><span>师生比例：1:12</span><span>录取率：15%</span><span>年平均学费：£17,050-£39,200</span><span>年平均生活费：￡ 12503   </span>                        </p>
+
+
+                        
+                                                <br clear="all" />
+                    </div>
+                    <div class="shoollist">
+                     
+                            <img src=" image/london-school-of-economics-and-political-science_small.jpg                " title="伦敦政治经济学院" alt="伦敦政治经济学院"/>
+                        
+                        <div class="listmain">
+                            <h5>
+                               
+                                    伦敦政治经济学院&nbsp;&nbsp;&nbsp;
+                                    <a href="UnivIntro/LSE.html">
+                                        London school of economics and politics                                  
+                                </a>
+                            </h5>
+                        </div>
+
+                                                <p class="main">
+                            <span>2022年QS世界大学排名：49</span><span>师生比例：1:11</span><span>录取率：7%</span><span>年平均学费：£18,408</span><span>平均生活费：£1,100-£1,300/月</span>                        </p>
+
+
+                        
+                                                <br clear="all" />
+                    </div>
+                                    <div class="shoollist">
+                     
+                            <img src="image/the-university-of-warwick_small.jpg                             " title="华威大学" alt="华威大学"/>
+                        
+                        <div class="listmain">
+                            <h5>
+                          
+                                    华威大学&nbsp;&nbsp;&nbsp;
+                                    <a href="UnivIntro/UW.html">
+                                 
+                                        University of Warwick                                   </a>
+                              
+                            </h5>
+                        </div>
+
+                                                <p class="main">
+                            <span>2022年QS世界大学排名：61</span><span>师生比例：1:10</span><span>录取率：10%</span><span>雅思分数要求：6.5-7.5</span><span>年平均生活费：£15,103</span>                        </p>
+
+
+                       
+                                                <br clear="all" />
+                    </div>
+                                    <div class="shoollist">
+               
+                            <img src="image/university-of-bristol_small.jpg                             " title="布里斯托大学" alt="布里斯托大学"/>
+                       
+                        <div class="listmain">
+                            <h5>
+                   
+                                    布里斯托大学&nbsp;&nbsp;&nbsp;
+                                    <a href="UnivIntro/UOB.html">
+                                        The university of Bristol                                   </a>
+                               
+                            </h5>
+                        </div>
+
+                                                <p class="main">
+                            <span>2022年QS世界大学排名：62</span><span>师生比例：1:13</span><span>录取率：9%</span><span>年平均学费：£15,800-£35,400</span><span>年平均生活费：£9,000-£14,500</span>                        </p>
+
+
+                        
+                                                <br clear="all" />  
+    </div>
+    <div class="box">
+    <ul>
+    <li><a οnclick="window.location = '###' ",href:"###"><button>page up</button></a></li>
+    <li><a href="UniversityList.html"><button>1</button></a></li>
+    <li><a href="UniversityList2.html"><button>2</button></a></li>
+    <li><a href="UniversityList2.html"><button>page down</button></a></li>
+    </ul>
+    </div>
+        </div>
+</section>
+<!-- jQuery -->
+<script src="plugins/jquery/jquery.min.js"></script>
+<!-- sweet alert -->
+<script src="plugins/sweetalert/sweetalert.min.js"></script>
+<!-- Bootstrap 4 -->
+<script src="plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="dist/js/public.js"></script>
+<script type="text/javascript">
+window.requestAnimFrame = (function () {
+    return window.requestAnimationFrame ||
+        window.webkitRequestAnimationFrame ||
+        window.mozRequestAnimationFrame ||
+        function (callback) {
+            window.setTimeout(callback, 1000 / 60);
+        };
+})();
+var can = document.getElementById("canvas");
+var cxt = can.getContext("2d");
+can.width = 1920;
+can.height = 950;
+cxt.lineWidth = 0.3;
+//初始链接线条显示位置
+var mousePosition = {
+    x: 30 * can.width / 100,
+    y: 30 * can.height / 100
+}
+//圆形粒子对象参数
+var dots = {
+    n: 500,//圆形粒子个数
+    distance: 50,//圆形粒子之间的距离
+    d_radius: 100,//粒子距离鼠标点的距离
+    array: []//保存n个圆形粒子对象
+}
+//创建随即颜色值
+function colorValue(min) {
+    return Math.floor(Math.random() * 255 + min);
+}
+function createColorStyle(r, g, b) {
+    return "rgba(" + r + "," + g + "," + b + ", 1)";
+}
+//混合两个圆形粒子的颜色
+function mixConnect(c1, r1, c2, r2) {//圆的颜色 半径
+    return (c1 * r1 + c2 * r2) / (r1 + r2);
+};
+//生成线条的颜色
+function lineColor(dot1, dot2) {//获取具体的圆的颜色再计算
+    var color1 = dot1.color,
+        color2 = dot2.color;
+    var r = mixConnect(color1.r, dot1.radius, color2.r, dot2.radius);
+    var g = mixConnect(color1.g, dot1.radius, color2.g, dot2.radius);
+    var b = mixConnect(color1.b, dot1.radius, color2.b, dot2.radius);
+    return createColorStyle(Math.floor(r), Math.floor(g), Math.floor(b));
+}
+//生成圆形粒子的颜色对象
+function Color(min) {
+    min = min || 0;
+    this.r = colorValue(min);
+    this.g = colorValue(min);
+    this.b = colorValue(min);
+    this.style = createColorStyle(this.r, this.g, this.b);
+}
+//创建圆形粒子对象
+function Dot() {
+    //圆形粒子随机圆心坐标点
+    this.x = Math.random() * can.width;
+    this.y = Math.random() * can.height;
+    //x y 方向运动的速度值
+    this.vx = -0.5 + Math.random();
+    this.vy = -0.5 + Math.random();
+    this.radius = Math.random() * 5;
+    //this.color = "#ff3333";
+    this.color = new Color();
+}
+//绘制出圆形粒子
+Dot.prototype.draw = function () {
+    cxt.beginPath();
+    cxt.fillStyle = this.color.style;
+    cxt.arc(this.x, this.y, this.radius, 0, Math.PI * 2, false);
+    cxt.fill();
+}
+//添加圆形粒子
+function createCircle() {
+	/*<![CDATA[*/  for (var i = 0; i < dots.n; i++) {
+        dots.array.push(new Dot());
+    }/*<![CDATA[*/
+}
+//绘制出圆形粒子
+function drawDots() {
+    for (var i = 0; i < dots.n; i++) {
+        var dot = dots.array[i];
+        dot.draw();
+    }
+}
+//drawDots();
+//移动
+function moveDots() {
+    for (var i = 0; i < dots.n; i++) {
+        var dot = dots.array[i];
+        //当圆形粒子对象碰壁的时候就反弹回来
+        if (dot.y < 0 || dot.y > can.height) {
+            dot.vx = dot.vx;
+            dot.vy = -dot.vy;
+        } else if (dot.x < 0 || dot.x > can.width) {
+            dot.vx = -dot.vx;
+            dot.vy = dot.vy;
+        }
+        //给圆形粒子圆心坐标加上速度值移动圆形粒子
+        dot.x += dot.vx;
+        dot.y += dot.vy;
+    }
+}
+//链接粒子对象
+function connectDots() {
+    for (var i = 0; i < dots.n; i++) {
+        for (var j = 0; j < dots.n; j++) {
+            iDot = dots.array[i];
+            jDot = dots.array[j];
+            /*<![CDATA[*/  if ((iDot.x - jDot.x) < dots.distance && (iDot.y - jDot.y) < dots.distance && (iDot.x - jDot.x) > -dots.distance && (iDot.y - jDot.y) > -dots.distance) {
+                if ((iDot.x - mousePosition.x) < dots.d_radius && (iDot.y - mousePosition.y) < dots.d_radius && (iDot.x - mousePosition.x) > -dots.d_radius && (iDot.y - mousePosition.y) > -dots.d_radius) {
+                    cxt.beginPath();
+                    //cxt.strokeStyle = "yellow";
+                    cxt.strokeStyle = lineColor(iDot, jDot);
+                    cxt.moveTo(iDot.x, iDot.y);
+                    cxt.lineTo(jDot.x, jDot.y);
+                    cxt.closePath();
+                    cxt.stroke();
+                }
+            }/*]]>*/
+        }
+    }
+}
+createCircle();
+//让圆形粒子不断的移动
+function animateDots() {
+    cxt.clearRect(0, 0, can.width, can.height);
+    moveDots();
+    connectDots()
+    drawDots();
+    requestAnimFrame(animateDots);
+}
+animateDots();
+can.onmousemove = function (ev) {
+    var ev = ev || window.event;
+    mousePosition.x = ev.pageX;
+    mousePosition.y = ev.pageY;
+}
+can.onmouseout = function () {
+    mousePosition.x = can.width / 2;
+    mousePosition.y = can.height / 2;
+}
+</script>
+</body>
+</html>

@@ -1,0 +1,119 @@
+配置环境
+该项目环境综述
+IDE：eclipse-jee-2022-03-R-win32-x86_64
+平台：windows10
+java：jdk1.8
+web框架：springboot2.6.5
+spark环境：spark-core-2.11-2.30　+ spark-mllib_2.11-2.30(netty-all 4.1.17final) + scala-2.10.5
+hadoop-3.0.1 + winutils-3.0.1 
+hanlp环境：hanlp1.8.3
+neo4j环境：neo4j desktop 1.4.13 + dbms neo4j 4.4.3 + spring-boot-starter-data-neo4j-2.6.5
+其他依赖：thymeleaf模板引擎
+
+下载jdk+eclipse+neo4jdesktop这三个都是免费软件
+
+首先配置eclipse中的springboot环境 
+eclipse中想要运行并创建springboot框架工程需要下载插件
+上方工具栏 help-marketplace-查询spring tool 4-下载即可
+如果在file-new选项卡下能找到spring-starter-project及配置成功
+在window-preferences-maven-user settings选项卡下有maven工程的配置文件以及本地依赖存储库，所有的依赖jar包都从官网下到这里导入工程（非常重要）
+配置pom.xml更改后出现错误，可以尝试重置本地repository
+
+配置spark环境
+请参考博文https://blog.csdn.net/u011513853/article/details/52865076
+
+配置hanlp分词器
+到hanlp官网下载data，hanlp.properties两个文件并在pom.xml中导入依赖
+hanlp.properties文件导入工程的resource路径下，可以配置分词参考的字典路径
+将data-dictionary导入工程中（可以自由配置，但是每次更改完字典需要删除data-dictionary-custom下的bin文件）
+我的配置如下图所示
+
+配置neo4j环境
+neo4jdesktop下载开箱即用，没有community那么多烦人的配置，还可以同时加载多个dbms，强推。
+需要在pom.xml中导入依赖
+需要在工程的application.properties文件下进行如下配置
+spring.neo4j.authentication.username=数据库用户名
+spring.neo4j.authentication.password=数据库密码
+spring.neo4j.uri=bolt://localhost:7687#端口号
+logging.level.org.springframework.data.neo4j=DEBUG#显示后端执行语句
+spring.data.neo4j.database = #具体的图
+
+该项目的具体pom.xml文件如下：
+	<dependencies>
+		<!-- 图形数据库Neo4j 官方支持的neo4j依赖包 -->	
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-data-neo4j</artifactId>
+		</dependency>
+		
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-web</artifactId>
+		</dependency>
+		
+		<!-- Spring 单元测试 -->
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-test</artifactId>
+			<scope>test</scope>
+		</dependency>
+		
+		<!-- hanlp分词器 -->
+		<dependency>
+            <groupId>com.hankcs</groupId>
+            <artifactId>hanlp</artifactId>
+            <version>portable-1.8.3</version>
+        </dependency>
+        
+        <!-- spark环境配置 -->
+		<dependency>
+			<groupId>org.apache.spark</groupId>
+			<artifactId>spark-core_2.11</artifactId>
+			<version>2.3.0</version>
+			<exclusions>
+				<exclusion>
+					<groupId>org.slf4j</groupId>
+					<artifactId>slf4j-log4j12</artifactId>
+				</exclusion>
+			</exclusions>
+		</dependency>
+		
+		<dependency>
+			<groupId>org.apache.spark</groupId>
+			<artifactId>spark-mllib_2.11</artifactId>
+			<version>2.3.0</version>
+		</dependency>
+		
+		<!-- https://mvnrepository.com/artifact/io.netty/netty-all -->
+		<dependency>
+		    <groupId>io.netty</groupId>
+		    <artifactId>netty-all</artifactId>
+		    <version>4.1.17.Final</version>
+		</dependency>
+		<dependency>
+            <groupId>org.codehaus.janino</groupId>
+            <artifactId>janino</artifactId>
+			<version>3.0.8</version>
+        </dependency>
+        
+        <!-- 添加thymeleaf 支持页面跳转 -->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-thymeleaf</artifactId>
+        </dependency>
+
+
+	</dependencies>
+
+	<build>
+		<plugins>
+			<plugin>
+				<groupId>org.springframework.boot</groupId>
+				<artifactId>spring-boot-maven-plugin</artifactId>
+			</plugin>
+		</plugins>
+	</build>
+
+</project>
+
+用到的环境配置文件已打包

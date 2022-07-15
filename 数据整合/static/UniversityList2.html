@@ -1,0 +1,560 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:th="http://www.thymeleaf.org"
+	xmlns:sec="http://www.thymeleaf.org/thymeleaf-extras-springsecurity3" class="ng-scope">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta charset="UTF-8">
+<title>University List</title>
+<style>
+.box{
+				height: 2.625rem;
+				width: 37.625rem;
+				margin: 0 auto;
+				text-align: center;
+				line-height: 40px;
+			}
+			.box li{
+				display: inline-block;
+				height: 1.625rem;
+				text-align: center;
+			}
+			.box li a{
+				display: inline-block;
+				text-decoration: none;
+				font: 0.75rem "arial black";
+				color: #000000;
+				height: 1.625rem;
+				background-color: gold;
+				padding: 0 5px;
+				line-height: 1.625rem;
+			}
+			.box:hover {
+			transform: scale(1.5); 
+			transition: all .3s; 
+			}
+img {
+    border: 0;
+}
+.cf:before,.cf:after {
+    display: table;
+    content: "";
+}
+.cf:after {
+    clear: both;
+}
+.cf {
+    *zoom: 1;
+}
+canvas{
+position: fixed;
+    top: 0px;
+}
+</style>
+</head>
+<body>
+<section>
+<div class="sosomian">
+            <div class="sosoa" style="display:block">
+           <div class="shoollist">
+                        
+                             </div>
+                                    <div class="shoollist">
+                     
+                            <img src="image/university-of-glasgow_small.jpg" title="格拉斯哥大学" alt="格拉斯哥大学"/>
+                        
+                        <div class="listmain">
+                            <h5>
+                          
+                                    格拉斯哥大学&nbsp;&nbsp;&nbsp;
+                                    <a href="UnivIntro/格拉斯哥.html">
+                                        The university of Glasgow                                    </a>
+                            
+                            </h5>
+                        </div>
+
+                                                <p class="main">
+                            <span>2022年QS世界大学排名：73</span><span>师生比例：1:15</span><span>录取率：15%</span><span>年平均学费：£16,000-£42,000</span><span>年平均生活费：£12,100</span>                        </p>
+
+
+                        
+                                                <br clear="all" />
+                    </div>
+                    
+                    <div class="shoollist">
+                 
+                            <img src="image/university-of-southampton_small.jpg" title="南安普顿大学" alt="南安普顿大学"/>
+                   
+                        <div class="listmain">
+                            <h5>
+                         
+                                    南安普顿大学&nbsp;&nbsp;&nbsp;
+                                    <a href="http://localhost:8080/uk_un/website/UnivIntro/南安普顿.html">
+                                        The university of Southampton                                   </a>
+                           
+                            </h5>
+                        </div>
+
+                                                <p class="main">
+                            <span>2022年QS世界大学排名：77</span><span>师生比例：1:13</span><span>录取率：13%</span><span>年平均学费：£16,536-£20,320  </span><span>年平均生活费：£4181 - £4571</span>                        </p>
+
+
+                        
+                                                <br clear="all" />
+                    </div>
+                    <div class="shoollist">
+                    
+                            <img src="image/durham-university_small.jpg                             " title="杜伦大学" alt="杜伦大学"/>
+                     
+                        <div class="listmain">
+                            <h5>
+                           
+                                    杜伦大学&nbsp;&nbsp;&nbsp;
+                                    <a href="http://localhost:8080/uk_un/website/UnivIntro/杜伦.html">
+                                        Durham university                                   </a>
+                              
+                            </h5>
+                        </div>
+
+                                                <p class="main">
+                            <span>2022年QS世界大学排名：82</span><span>师生比例：1:15</span><span>录取率：15%</span><span>年平均学费：£18,300-£23,100</span><span>年平均生活费：￡9600 </span>                        </p>
+
+
+                        
+                                                <br clear="all" />
+                    </div>
+                    <div class="shoollist">
+           
+                            <img src="image/university-of-birmingham_small.jpg                             " title="伯明翰大学" alt="伯明翰大学"/>
+                      
+                        <div class="listmain">
+                            <h5>
+                         
+                                    伯明翰大学&nbsp;&nbsp;&nbsp;
+                                    <a href="http://localhost:8080/uk_un/website/UnivIntro/伯明翰.html">
+                                        University of Birmingham                                   </a>
+                             
+                            </h5>
+                        </div>
+
+                                                <p class="main">
+                            <span>2022年QS世界大学排名：90</span><span>师生比例：1:14</span><span>录取率：12%</span><span>年平均学费：£15,720-£36,840</span><span>年平均生活费：£11,592- £12,768 </span>                        </p>
+
+
+                        
+                                                <br clear="all" />
+                    </div>
+                    <div class="shoollist">
+                
+                            <img src="image/university-of-st-andrews_small.jpg                             " title="圣安德鲁斯大学" alt="圣安德鲁斯大学"/>
+                      
+                        <div class="listmain">
+                            <h5>
+                          
+                                    圣安德鲁斯大学&nbsp;&nbsp;&nbsp;
+                                    <a href="http://localhost:8080/uk_un/website/UnivIntro/圣安德鲁斯.html">
+                                        The university of st Andrews                                  </a>
+                                
+                            </h5>
+                        </div>
+
+                                                <p class="main">
+                            <span>2022年QS世界大学排名：91</span><span>师生比例：1:12</span><span>录取率：14%</span><span>年平均学费：£21,290-£30,080</span><span>年平均生活费：£7,200</span>                        </p>
+
+
+                        
+                                                <br clear="all" />
+                    </div>
+                    <div class="shoollist">
+                   
+                            <img src="image/university-of-leeds_small.jpg                             " title="利兹大学" alt="利兹大学"/>
+                    
+                        <div class="listmain">
+                            <h5>
+                         
+                                    利兹大学&nbsp;&nbsp;&nbsp;
+                                    <a href="http://localhost:8080/uk_un/website/UnivIntro/利兹.html">
+                                        The university of Leeds                                  </a>
+                               
+                            </h5>
+                        </div>
+
+                                                <p class="main">
+                            <span>2022年QS世界大学排名：92</span><span>师生比例：1:13</span><span>录取率：13%</span><span>年平均学费：£17,500-£23,350</span><span>年平均生活费：£5,226-£6,903  </span>                        </p>
+
+
+                        
+                                                <br clear="all" />
+                    </div>
+                    <div class="shoollist">
+             
+                            <img src="image/the-university-of-sheffield_small.jpg                             " title="谢菲尔德大学" alt="谢菲尔德大学"/>
+                    
+                        <div class="listmain">
+                            <h5>
+                          
+                                    谢菲尔德大学&nbsp;&nbsp;&nbsp;
+                                    <a href="http://localhost:8080/uk_un/website/UnivIntro/谢菲尔德.html">
+                                        At the university of Sheffield                                 </a>
+                            
+                            </h5>
+                        </div>
+
+                                                <p class="main">
+                            <span>2022年QS世界大学排名：95</span><span>师生比例：1:15</span><span>录取率：15%</span><span>年平均学费：£16,000-£35,500</span><span>年平均生活费：£9,135 </span>                        </p>
+
+
+                        
+                                                <br clear="all" />
+                    </div>
+                    <div class="shoollist">
+             
+                            <img src="image/the-university-of-nottinghame_small.jpg                             " title="诺丁汉大学" alt="诺丁汉大学"/>
+                       
+                        <div class="listmain">
+                            <h5>
+                   
+                                    诺丁汉大学&nbsp;&nbsp;&nbsp;
+                                    <a href="http://localhost:8080/uk_un/website/UnivIntro/诺丁汉.html">
+                                        The university of Nottingham                                   </a>
+                               
+                            </h5>
+                        </div>
+
+                                                <p class="main">
+                            <span>2022年QS世界大学排名：103</span><span>师生比例：1:14</span><span>录取率：13%</span><span>年平均学费：£15,570-£29,730 </span><span>年平均生活费：£1,015/Month </span>                        </p>
+
+
+                        
+                                                <br clear="all" />
+                    </div>
+                    <div class="shoollist">
+               
+                            <img src="image/queen-mary-university-of-london_small.jpg                             " title="伦敦大学皇后玛丽学院" alt="伦敦大学皇后玛丽学院"/>
+                        
+                        <div class="listmain">
+                    
+                                    伦敦大学皇后玛丽学院&nbsp;&nbsp;&nbsp;
+                                    <a href="http://localhost:8080/uk_un/website/UnivIntro/伦敦大学皇后学院.html">
+                                        Queen Mary university college London (QMUL)                                   </a>
+                                
+                            
+                        </div>
+
+                                                <p class="main">
+                            <span>2022年QS世界大学排名：117</span><span>师生比例：1:13</span><span>录取率：14%</span><span>年平均学费：£14,100-£17,450 </span><span>年平均生活费：￡8,000</span>                        </p>
+
+
+                        
+                                                <br clear="all" />
+                    </div>
+                    <div class="shoollist">
+              
+                            <img src="image/lancaster-university_small.jpg                             " title="兰卡斯特大学" alt="兰卡斯特大学"/>
+                       
+                        <div class="listmain">
+                            <h5>
+                               
+                                    兰卡斯特大学&nbsp;&nbsp;&nbsp;
+                                    <a href="http://localhost:8080/uk_un/website/UnivIntro/兰卡斯特.html">
+                                        The Lancaster University                                   </a>
+                               
+                            </h5>
+                        </div>
+
+                                                <p class="main">
+                            <span>2022年QS世界大学排名：132</span><span>师生比例：1:13</span><span>录取率：16%</span><span>年平均学费：£15,680-£18,890 </span><span>年平均生活费：£8,560</span>                        </p>
+
+
+                        
+                                                <br clear="all" />
+                    </div>
+                    <div class="shoollist">
+                   
+                            <img src="image/newcastle-university_small.jpg                             " title="纽卡斯特大学" alt="纽卡斯特大学"/>
+                    
+                        <div class="listmain">
+                            <h5>
+                    
+                                    纽卡斯特大学&nbsp;&nbsp;&nbsp;
+                                    <span>
+                                        University of Newcastle                                   </span>
+                               
+                            </h5>
+                        </div>
+
+                                                <p class="main">
+                            <span>2022年QS世界大学排名：134</span><span>师生比例：1:15</span><span>录取率：14%</span><span>年平均学费：￡17075</span><span>年平均生活费：£9,500-£10,500</span>                        </p>
+
+
+                        
+                                                <br clear="all" />
+                    </div>
+                    <div class="shoollist">
+                      
+                            <img src="image/the-university-of-exeter_small.jpg                             " title="埃克赛特大学" alt="埃克赛特大学"/>
+                      
+                        <div class="listmain">
+                            <h5>
+                       
+                                    埃克赛特大学&nbsp;&nbsp;&nbsp;
+                                    <a href="http://localhost:8080/uk_un/website/UnivIntro/埃克斯特.html">
+                                       The university of Exeter                                  </a>
+                               
+                            </h5>
+                        </div>
+
+                                                <p class="main">
+                            <span>2022年QS世界大学排名：149</span><span>师生比例：1:16</span><span>录取率：18%</span><span>年平均学费：£13,350</span><span>年平均生活费：£8,126</span>                        </p>
+
+
+                        
+                                                <br clear="all" />
+                    </div>
+                    <div class="shoollist">
+                     
+                            <img src="image/cardiff-university_small.jpg                             " title="卡迪夫大学" alt="卡迪夫大学"/>
+                        
+                        <div class="listmain">
+                            <h5>
+                             
+                                    卡迪夫大学&nbsp;&nbsp;&nbsp;
+                                    <a href="http://localhost:8080/uk_un/website/UnivIntro/卡迪夫.html">
+                                        At Cardiff university                                   </a>
+                             
+                            </h5>
+                        </div>
+
+                                                <p class="main">
+                            <span>2022年QS世界大学排名：151</span><span>师生比例：1:13</span><span>录取率：16%</span><span>年平均学费：£15,080-£33,540 </span><span>年平均生活费：£9,135</span>                        </p>
+
+
+                        
+                                                <br clear="all" />
+                    </div>
+                    <div class="shoollist">
+                    
+                            <img src="image/university-of-york_small.jpg                             " title="约克大学" alt="约克大学"/>
+                      
+                        <div class="listmain">
+                            <h5>
+                            
+                                    约克大学&nbsp;&nbsp;&nbsp;
+                                    <a href="http://localhost:8080/uk_un/website/UnivIntro/约克.html">
+                                        'the university of york                                   </a>
+                               
+                            </h5>
+                        </div>
+
+                                                <p class="main">
+                            <span>2022年QS世界大学排名：151</span><span>师生比例：1:7.86</span><span>录取率：NA</span><span>19576加元 (舒立克商学院：26726加元)</span><span>年平均生活费：10822加元 </span>                        </p>
+
+
+                        
+                                                <br clear="all" />
+                    </div>
+                    <div class="shoollist">
+                      
+                            <img src="image/university-of-bath_small.jpg                             " title="巴斯大学" alt="巴斯大学"/>
+                     
+                        <div class="listmain">
+                            <h5>
+                               
+                                    巴斯大学&nbsp;&nbsp;&nbsp;
+                                   <a href="http://localhost:8080/uk_un/website/UnivIntro/巴斯.html">
+                                        The university of bath                                  </a>
+                             
+                            </h5>
+                        </div>
+
+                                                <p class="main">
+                            <span>2022年QS世界大学排名：166</span><span>师生比例：1:16</span><span>录取率：14%</span><span>年平均学费：£15,200-£19,000 </span><span>年平均生活费：£5,234</span>                        </p>
+
+
+                        
+                                                <br clear="all" />
+                    </div>
+                    <div class="shoollist">
+                       
+                            <img src="image/university-of-liverpool_small.jpg                             " title="利物浦大学" alt="利物浦大学"/>
+                       
+                        <div class="listmain">
+                            <h5>
+                               
+                                    利物浦大学&nbsp;&nbsp;&nbsp;
+                                    <a href="http://localhost:8080/uk_un/website/UnivIntro/利物浦.html">
+                                        The university of Liverpool                                  </a>
+                            </h5>
+                        </div>
+
+                                                <p class="main">
+                            <span>2022年QS世界大学排名：189</span><span>师生比例：1:14</span><span>录取率：12%</span><span>年平均学费：£15,750-£33,600</span><span>年平均生活费：£6,000-£8,000   </span>                        </p>
+
+
+                        
+                                                <br clear="all" />
+                    </div>
+<!-- list page -->
+    <div class="box">
+    <ul>
+    <a href="UniversityList.html"><button>page up</button></a>
+    <a href="UniversityList.html"><button>1</button></a>
+    <a href="UniversityList2.html"><button>2</button></a>
+    <a href="#"><button>page down</button></a>
+    </ul>
+    </div>
+        </div>
+</section>
+<!-- jQuery -->
+<script src="plugins/jquery/jquery.min.js"></script>
+<!-- sweet alert -->
+<script src="plugins/sweetalert/sweetalert.min.js"></script>
+<!-- Bootstrap 4 -->
+<script src="plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="dist/js/public.js"></script>
+<script type="text/javascript">
+window.requestAnimFrame = (function () {
+    return window.requestAnimationFrame ||
+        window.webkitRequestAnimationFrame ||
+        window.mozRequestAnimationFrame ||
+        function (callback) {
+            window.setTimeout(callback, 1000 / 60);
+        };
+})();
+var can = document.getElementById("canvas");
+var cxt = can.getContext("2d");
+can.width = 1920;
+can.height = 950;
+cxt.lineWidth = 0.3;
+//初始链接线条显示位置
+var mousePosition = {
+    x: 30 * can.width / 100,
+    y: 30 * can.height / 100
+}
+//圆形粒子对象参数
+var dots = {
+    n: 500,//圆形粒子个数
+    distance: 50,//圆形粒子之间的距离
+    d_radius: 100,//粒子距离鼠标点的距离
+    array: []//保存n个圆形粒子对象
+}
+//创建随即颜色值
+function colorValue(min) {
+    return Math.floor(Math.random() * 255 + min);
+}
+function createColorStyle(r, g, b) {
+    return "rgba(" + r + "," + g + "," + b + ", 1)";
+}
+//混合两个圆形粒子的颜色
+function mixConnect(c1, r1, c2, r2) {//圆的颜色 半径
+    return (c1 * r1 + c2 * r2) / (r1 + r2);
+};
+//生成线条的颜色
+function lineColor(dot1, dot2) {//获取具体的圆的颜色再计算
+    var color1 = dot1.color,
+        color2 = dot2.color;
+    var r = mixConnect(color1.r, dot1.radius, color2.r, dot2.radius);
+    var g = mixConnect(color1.g, dot1.radius, color2.g, dot2.radius);
+    var b = mixConnect(color1.b, dot1.radius, color2.b, dot2.radius);
+    return createColorStyle(Math.floor(r), Math.floor(g), Math.floor(b));
+}
+//生成圆形粒子的颜色对象
+function Color(min) {
+    min = min || 0;
+    this.r = colorValue(min);
+    this.g = colorValue(min);
+    this.b = colorValue(min);
+    this.style = createColorStyle(this.r, this.g, this.b);
+}
+//创建圆形粒子对象
+function Dot() {
+    //圆形粒子随机圆心坐标点
+    this.x = Math.random() * can.width;
+    this.y = Math.random() * can.height;
+    //x y 方向运动的速度值
+    this.vx = -0.5 + Math.random();
+    this.vy = -0.5 + Math.random();
+    this.radius = Math.random() * 5;
+    //this.color = "#ff3333";
+    this.color = new Color();
+}
+//绘制出圆形粒子
+Dot.prototype.draw = function () {
+    cxt.beginPath();
+    cxt.fillStyle = this.color.style;
+    cxt.arc(this.x, this.y, this.radius, 0, Math.PI * 2, false);
+    cxt.fill();
+}
+//添加圆形粒子
+function createCircle() {
+	/*<![CDATA[*/  for (var i = 0; i < dots.n; i++) {
+        dots.array.push(new Dot());
+    }/*<![CDATA[*/
+}
+//绘制出圆形粒子
+function drawDots() {
+    for (var i = 0; i < dots.n; i++) {
+        var dot = dots.array[i];
+        dot.draw();
+    }
+}
+//drawDots();
+//移动
+function moveDots() {
+    for (var i = 0; i < dots.n; i++) {
+        var dot = dots.array[i];
+        //当圆形粒子对象碰壁的时候就反弹回来
+        if (dot.y < 0 || dot.y > can.height) {
+            dot.vx = dot.vx;
+            dot.vy = -dot.vy;
+        } else if (dot.x < 0 || dot.x > can.width) {
+            dot.vx = -dot.vx;
+            dot.vy = dot.vy;
+        }
+        //给圆形粒子圆心坐标加上速度值移动圆形粒子
+        dot.x += dot.vx;
+        dot.y += dot.vy;
+    }
+}
+//链接粒子对象
+function connectDots() {
+    for (var i = 0; i < dots.n; i++) {
+        for (var j = 0; j < dots.n; j++) {
+            iDot = dots.array[i];
+            jDot = dots.array[j];
+            /*<![CDATA[*/  if ((iDot.x - jDot.x) < dots.distance && (iDot.y - jDot.y) < dots.distance && (iDot.x - jDot.x) > -dots.distance && (iDot.y - jDot.y) > -dots.distance) {
+                if ((iDot.x - mousePosition.x) < dots.d_radius && (iDot.y - mousePosition.y) < dots.d_radius && (iDot.x - mousePosition.x) > -dots.d_radius && (iDot.y - mousePosition.y) > -dots.d_radius) {
+                    cxt.beginPath();
+                    //cxt.strokeStyle = "yellow";
+                    cxt.strokeStyle = lineColor(iDot, jDot);
+                    cxt.moveTo(iDot.x, iDot.y);
+                    cxt.lineTo(jDot.x, jDot.y);
+                    cxt.closePath();
+                    cxt.stroke();
+                }
+            }/*]]>*/
+        }
+    }
+}
+createCircle();
+//让圆形粒子不断的移动
+function animateDots() {
+    cxt.clearRect(0, 0, can.width, can.height);
+    moveDots();
+    connectDots()
+    drawDots();
+    requestAnimFrame(animateDots);
+}
+animateDots();
+can.onmousemove = function (ev) {
+    var ev = ev || window.event;
+    mousePosition.x = ev.pageX;
+    mousePosition.y = ev.pageY;
+}
+can.onmouseout = function () {
+    mousePosition.x = can.width / 2;
+    mousePosition.y = can.height / 2;
+}
+</script>
+</body>
+</html>
