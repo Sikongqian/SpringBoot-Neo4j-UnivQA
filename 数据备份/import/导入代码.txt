@@ -1,3 +1,5 @@
+
+//neo4j导入代码
 LOAD CSV WITH HEADERS  FROM "file:///univnode.csv" AS line1
 LOAD CSV WITH HEADERS  FROM "file:///itrnode.csv" AS line2
 Merge (univ:university{abbr:line1.abbr,name:line1.name,rank:line1.rank})
