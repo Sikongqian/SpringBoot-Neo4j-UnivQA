@@ -1,0 +1,34 @@
+
+//neo4j导入代码
+LOAD CSV WITH HEADERS  FROM "file:///univnode.csv" AS line1
+LOAD CSV WITH HEADERS  FROM "file:///itrnode.csv" AS line2
+Merge (univ:university{abbr:line1.abbr,name:line1.name,rank:line1.rank})
+Merge(itr:introduction{abbr:line2.abbr,Itr:line2.Itr})//导入节点
+LOAD CSV WITH HEADERS  FROM "file:///citynode.csv" AS line4
+Merge (city:location{Englishname:line4.name,name:line4.chinesename})//导入节点（地址）
+LOAD CSV WITH HEADERS  FROM "file:///qualificationsNode.csv" AS line5 
+Merge (qualification:qualification{name:line5.name,detail:line5.text})//导入节点（申请条件）
+LOAD CSV WITH HEADERS  FROM "file:///feenode.csv" AS line6
+Merge (fee:fee{name:line6.item,detail:line6.detail})//导入节点（费用
+create (n:nation{name:"U.K"}) return n//创建国家（英国）
+
+
+
+LOAD CSV WITH HEADERS  FROM "file:///univrel.csv" AS relline1 
+Match (start:introduction{abbr:relline1.end}),(end:university{abbr:relline.start})
+Merge (start)-[r:itr]->(end)//导入关系 学校->介绍
+LOAD CSV WITH HEADERS  FROM "file:///univ-location.csv" AS relline2 
+Match (start:university{name:relline2.univ}),(end:location{name:relline2.location})
+Merge (start)-[r:beLocatedIn]->(end)//导入关系 学校->位置
+LOAD CSV WITH HEADERS  FROM "file:///univ-nation.csv" AS relline3
+Match (start:university{name:relline3.univ}),(end:nation{name:relline3.nation})
+Merge (start)-[r:country]->(end)//导入关系 学校->国家
+LOAD CSV WITH HEADERS  FROM "file:///location-nation.csv" AS relline4
+Match (start:location{name:relline4.location}),(end:nation{name:relline4.nation})
+Merge (start)-[r:country]->(end)//导入关系 位置->国家
+LOAD CSV WITH HEADERS  FROM "file:///univ-fee.csv" AS relline5
+Match (start:fee{name:relline5.fee}),(end:university{name:relline2.univ})
+Merge (start)-[r:feeOfUniv]->(end)//导入关系 学费->学校
+LOAD CSV WITH HEADERS  FROM "file:///qualification-univ.csv" AS relline6
+Match (start:qualification{name:relline6.qualification}),(end:university{name:relline6.univ})
+Merge (start)-[r:qualificationOfUniv]->(end)//导入关系 申请条件->学校
