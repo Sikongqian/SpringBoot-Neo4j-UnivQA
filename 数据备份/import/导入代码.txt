@@ -7,7 +7,7 @@ Merge (city:location{Englishname:line4.name,name:line4.chinesename})//导入节�
 LOAD CSV WITH HEADERS  FROM "file:///qualificationsNode.csv" AS line5 
 Merge (qualification:qualification{name:line5.name,detail:line5.text})//导入节点（申请条件）
 LOAD CSV WITH HEADERS  FROM "file:///feenode.csv" AS line6
-Merge (fee:fee{name:line6.item,detail:line6.detail})//导入节点（费用）
+Merge (fee:fee{name:line6.item,detail:line6.detail})//导入节点（费用
 create (n:nation{name:"U.K"}) return n//创建国家（英国）
 
 
